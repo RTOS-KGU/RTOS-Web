@@ -7,7 +7,6 @@ type: docs
 
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kgu.ac.kr
 
-{{< columns >}}
 ## News
 
 - 2020.03.05. Scientific Reports 논문 게재
@@ -27,23 +26,6 @@ We are looking for talented and motivated students to join our lab, on the under
 - 2021.10.25. 캡스톤 디자인 및 아이디어 경진대회 금상 수상
 - 2021.11.17. 2021년 공개SW 개발자대회 은상 수상
 
-{{< /columns >}}
 
 
 ## Members
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
