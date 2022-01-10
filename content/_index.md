@@ -29,3 +29,14 @@ We are looking for talented and motivated students to join our lab, on the under
 
 
 ## Members
+
+{{< columns >}}
+<img src="img/member_01.jpg" width = "50%">  
+
+<--->
+
+## Byong-Dai Lee  
+### <span style="color:#197ed6">Professor</span>  
+**Office:** RM #8317  
+**Email:** blee@kyonggi.ac.kr  
+{{< /columns >}}
