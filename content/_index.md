@@ -30,13 +30,71 @@ We are looking for talented and motivated students to join our lab, on the under
 
 ## Members
 
+### <span style="color:#197ed6">Professor</span>  
+
 {{< columns >}}
-<img src="img/member_01.jpg" width = "50%">  
+<img src="img/member_01.jpg" width = "200px">  
 
 <--->
 
 ## Byong-Dai Lee  
-### <span style="color:#197ed6">Professor</span>  
 **Office:** RM #8317  
 **Email:** blee@kyonggi.ac.kr  
 {{< /columns >}}
+
+
+### <span style="color:#197ed6">Graduate Student(M.S.)</span>  
+
+{{< columns >}}  
+<img src="img/member_02.jpg" width = "200px">  
+
+<--->
+
+## Min-ki Kim  
+**Office:** RM #8514
+
+<--->  
+
+<img src="img/member_03.jpg" width = "200px">  
+
+<--->
+
+## Sun-Won Kang  
+**Office:** RM #8514  
+{{< /columns >}}  
+
+
+### <span style="color:#197ed6">Undergraduate Student</span>  
+
+{{< columns >}}  
+<img src="img/member_04.jpg" width = "200px">  
+
+<--->  
+
+## Ki-Ryum Moon
+**Office:** RM #8514  
+jij7401@naver.com  
+[**Github**](https://github.com/jij7401)  
+
+<--->  
+
+<img src="img/member_05.jpg" width = "200px">  
+
+<--->
+
+## Dong-Hyun Han   
+**Office:** RM #8514  
+mpolio2@kyonggi.ac.kr
+[**Github**](https://github.com/DongHyun99)
+{{< /columns >}}  
+
+## Alumni  
+
+- Sunwon Kang (M.S., 2022, expected) 피니뷰(finiview)  
+- Ye-Hoon Jang (M.S., 2021) 아토리서치(ATTO Research)  
+- Chansu Lee (M.S., 2021) 헬스허브(HealthHub)  
+- Myunghoon Jeon (Ph.D., 2019) 퍼즐데이터(PuzzleData)  
+- Dong-Joo Choi (M.S., 2017) 쿠팡(Coopang)  
+- Han-bin Kim (M.S., 2017) 삼성전자(Samsung Electronics)  
+- Dong-Ryeol Kim (M.S., 2017) 현대 엠엔소프트(HYUNDAI MnSOFT)  
+- Kwang-Ho Lim (M.S., 2014) 삼성전자(Samsung Electronics)  
