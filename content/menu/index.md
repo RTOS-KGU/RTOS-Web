@@ -3,9 +3,9 @@ headless: true
 ---
 
 - **Publication**
-  - [International Journals]({{< relref "/docs/Publication/International Journals">}})
-  - [International Conferences]({{< relref "/docs/Publication/International Conferences">}})
-  - [Domestic Publications]({{< relref "/docs/Publication/Domestic Publications">}})
+  - [International Journals]({{< relref "content/docs/Publication/International Journals.md">}})
+  - [International Conferences]({{< relref "content/docs/Publication/International Conferences.md">}})
+  - [Domestic Publications]({{< relref "content/docs/Publication/Domestic Publications.md">}})
 <br />
 
 - [Photos]({{< relref "/docs/Photos">}})  
