@@ -22,7 +22,6 @@ enableGitInfo = true
   weight = 1
 
 [params]
-  BookMenuBundle = '/menu'
   BookSection = 'docs'
   BookSerch=true
-  BookLogo = 'logo.png'
+  BookLogo = 'img/logo.png'
