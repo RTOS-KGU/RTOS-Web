@@ -86,7 +86,7 @@
 <div id="slide-window">
     <ol id="slides-list">
         {{- with (.Get "dir") -}} 
-            {{- $files := readDir (print "/static/" .) }} 
+            {{- $files := readDir (print "/content/" .) }} 
             {{- range $files -}} 
                 {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
                 <li class="slide" style="background-image:url({{ $absoluteUrl }});"></li>
