@@ -25,4 +25,3 @@ enableGitInfo = true
   BookSection = 'docs'
   BookSerch=true
   BookLogo = 'img/logo.png'
-  BookMenuBundle = '/menu'
