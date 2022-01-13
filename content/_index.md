@@ -33,7 +33,7 @@ We are looking for talented and motivated students to join our lab, on the under
 ### <span style="color:#197ed6">Professor</span>  
 
 {{< columns >}}
-<img src="img/member_01.jpg" width = "200px">  
+<img src="images/member_01.jpg" width = "200px">  
 
 <--->
 
@@ -46,7 +46,7 @@ We are looking for talented and motivated students to join our lab, on the under
 ### <span style="color:#197ed6">Graduate Student(M.S.)</span>  
 
 {{< columns >}}  
-<img src="img/member_02.jpg" width = "200px">  
+<img src="images/member_02.jpg" width = "200px">  
 
 <--->
 
@@ -55,7 +55,7 @@ We are looking for talented and motivated students to join our lab, on the under
 
 <--->  
 
-<img src="img/member_03.jpg" width = "200px">  
+<img src="images/member_03.jpg" width = "200px">  
 
 <--->
 
@@ -67,7 +67,7 @@ We are looking for talented and motivated students to join our lab, on the under
 ### <span style="color:#197ed6">Undergraduate Student</span>  
 
 {{< columns >}}  
-<img src="img/member_04.jpg" width = "200px">  
+<img src="images/member_04.jpg" width = "200px">  
 
 <--->  
 
@@ -78,7 +78,7 @@ jij7401@naver.com
 
 <--->  
 
-<img src="img/member_05.jpg" width = "200px">  
+<img src="images/member_05.jpg" width = "200px">  
 
 <--->
 
