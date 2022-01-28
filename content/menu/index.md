@@ -8,4 +8,5 @@ headless: true
   - [Domestic Publications]({{< relref "content/docs/Publication/Domestic Publications.md">}})
 <br />
 
+- [**Members**]({{< relref "content/docs/Members.md">}})
 - [**Photos**]({{< relref "content/docs/Photos.md">}})  

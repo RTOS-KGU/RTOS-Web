@@ -3,8 +3,9 @@ languageCode = 'ko'
 title = 'RTOS Lab'
 theme = 'hugo-book'
 
+staticDir = 'static'
+
 # Book configuration
-disablePathToLower = true
 enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
@@ -26,3 +27,9 @@ enableGitInfo = true
   BookSerch=true
   BookLogo = 'img/logo.png'
   BookMenuBundle = '/menu'
+  BookServiceWorker = true
+
+[module]
+[[module.mounts]]
+  source = 'static/img/Photos/'
+  target = 'static/img/Photos/'
