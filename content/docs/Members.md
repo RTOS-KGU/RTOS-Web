@@ -1,24 +1,27 @@
 ---
-weight: 2
+weight: 3
 title: "Members"
 ---
 
 ## Members
-
 ---
+
 ### <span style="color:#197ed6">Professor</span>  
 ---  
+{{< columns >}}
 > ## Byong-Dai Lee  
 > **Office:** RM #8317  
 **Email:** blee@kyonggi.ac.kr  
+{{</ columns >}}
 
----
 ### <span style="color:#197ed6">Ph.D Students</span>  
 ---
+{{< columns >}}
 > ## Da-Young Lee   
-> **Office:** RM #8514
+> **Office:** RM #8514  
+**Emails:** jia0512@kyonggi.ac.kr  
+{{</ columns >}}
 
----
 ### <span style="color:#197ed6">Master Students</span>  
 ---
 
@@ -30,7 +33,6 @@ title: "Members"
 > **Office:** RM #8514  
 {{</ columns >}}
 
----
 ### <span style="color:#197ed6">Undergraduate Student</span>  
 ---
 

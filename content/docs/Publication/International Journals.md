@@ -4,6 +4,7 @@ title: "International Journals"
 ---
 
 # International Journals
+---
 
 - "Cycle in Cycle Adversarial Generative Networks for Shadow Removal using Unpaired Data," in preparation .
 - "Flow Classification Method Using Variational Auto-Encoder in Software Defined Network Environment," under revision.

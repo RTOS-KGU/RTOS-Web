@@ -4,6 +4,7 @@ title: "International Conferences"
 ---
 
 # International Conferences
+---
 
 - Sunwon Kang and Byoung-Dai Lee, "An evaluation of a deep learning-based - vehicle tracking method using live traffic CCTV data," Proceedings of the - 12th International Conference on Internet(ICONI 2020), 2020.
 - Chansu Lee and Byoung-Dai Lee, "Enhancement for Automatic Extraction of - RoIs for Bone Age Assessment Based on Deep Neural Networks," Proceedings - of the 14th International Conference on Innovative Computing, Information - and Control (ICICIC2019), 2019.

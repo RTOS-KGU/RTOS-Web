@@ -1,8 +1,9 @@
 ---
-weight: 3
+weight: 4
 title: "Photos"
 ---
 # Photos  
+---
 <br><br><br><br>
 
-{{< slider>}}
+<center> {{<slider auto-slide="4000" width="800px" height="500px" >}} </center>  
