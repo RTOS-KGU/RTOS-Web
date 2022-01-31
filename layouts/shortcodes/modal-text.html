@@ -1,18 +1,16 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 
-<div class="modal" id={{.Get "id"}}>
+<div class="modal{{.Get "id"}}" >
   <div class="modal_body">
     <div style="font-size: x-large; font-weight: bold;">{{.Get "text"}}</div>
-    <button class="closeBtn">x</button>
+    <button class="closeBtn{{.Get "id"}}">x</button>
     <br><br><p style="text-align: left;">{{.Inner}}</p>
   </div>
- 
 </div>
-<div class="btn-open-popup" style="cursor: pointer;color:rgb(33, 33, 204)">{{.Get "text"}}</button>
-<div>
+<div class="btn-open-popup{{.Get "id"}}" style="cursor: pointer;color:rgb(13, 62, 163)">{{.Get "text"}}</div>
 
 <style>
-  button.closeBtn {
+  button.closeBtn{{.Get "id"}} {
     display: block;
     width: 30px;
     height: 30px;
@@ -23,7 +21,7 @@
     right:20px;
     z-index: 1;
         }
-  .modal {
+  .modal{{.Get "id"}} {
     position: absolute;
     top: 0;
     left: 0;
@@ -32,7 +30,7 @@
     display: none;
     /*background-color: rgba(0, 0, 0, 0.4);*/
   }
-  .modal.show {
+  .modal{{.Get "id"}}.show {
     display: block;
   }
   .modal_body {
@@ -54,10 +52,10 @@
 </style>
 
 <script>
-  const body = document.querySelector('body');
-  const modal = document.querySelector('.modal');
-  const closeBtn = document.querySelector('.closeBtn');
-  const btnOpenPopup = document.querySelector('.btn-open-popup');
+function mod(){
+  const modal = document.querySelector('.modal{{.Get "id"}}');
+  const closeBtn = document.querySelector('.closeBtn{{.Get "id"}}');
+  const btnOpenPopup = document.querySelector('.btn-open-popup{{.Get "id"}}');
   btnOpenPopup.addEventListener('click', () => {
     modal.classList.toggle('show');
     if (modal.classList.contains('show')) {
@@ -78,4 +76,7 @@
       body.style.overflow = 'hidden';
     }
   });
+}
+
+mod();
 </script>
