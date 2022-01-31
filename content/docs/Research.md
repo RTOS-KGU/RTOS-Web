@@ -11,5 +11,3 @@ title: "Research"
 **모바일 클라우드 컴퓨팅** 
 <--->
 {{</columns>}}
-
-{{<modal>}}
