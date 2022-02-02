@@ -5,7 +5,7 @@ title: "International Journals"
 
 # International Journals
 ---
-
+<br><br>
 - "Cycle in Cycle Adversarial Generative Networks for Shadow Removal using Unpaired Data," in preparation .
 - "Flow Classification Method Using Variational Auto-Encoder in Software Defined Network Environment," under revision.
 - Chan Su Lee, Mu Sook Lee, Shi Sub Byon, Sung Hyun Kim, Byoung Il Lee, and Byoung-Dai Lee, "Computer-Aided Automatic Measurement of Leg Length on Full-Leg Radiographs," to appear in Skeletal Radiology, 2021.

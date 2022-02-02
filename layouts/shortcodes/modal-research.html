@@ -2,12 +2,13 @@
 
 <div class="modal{{.Get "id"}}" >
   <div class="modal_body">
-    <div style="font-size: x-large; font-weight: bold;">{{.Get "text"}}</div>
+    <div style="font-size: x-large; font-weight: bold;">{{.Get "en_title"}}</div>
     <button class="closeBtn{{.Get "id"}}">x</button>
     <br><br><p style="text-align: left;">{{.Inner}}</p>
   </div>
 </div>
-<div class="btn-open-popup{{.Get "id"}}" style="cursor: pointer;color:rgb(13, 62, 163);">{{.Get "text"}}</div>
+<div class="btn-open-popup{{.Get "id"}}" style="cursor: pointer;">
+  <center><br><h2>{{.Get "en_title"}}</h2><hr style="width:60%;"><h3>{{.Get "ko_title"}}</h3><br></center></div>
 
 <style>
   button.closeBtn{{.Get "id"}} {
@@ -38,7 +39,7 @@
     top: 400px;
     left: 50%;
     width: 600px;
-    height: 400px;
+    height: 600px;
     padding: 40px;
     text-align: center;
     background-color: rgb(255, 255, 255);
@@ -48,6 +49,11 @@
     border-color: rgb(200,200,200);
     box-shadow: 0 2px 3px 0 rgba(34, 36, 38, 0.15);
     transform: translateX(-50%) translateY(-50%);
+  }
+  .btn-open-popup{{.Get "id"}} {
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(200,200,200);
   }
 </style>
 

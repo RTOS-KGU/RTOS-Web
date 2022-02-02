@@ -1,10 +1,11 @@
 ---
-weight: 3
+weight: 2
 title: "Members"
 ---
 
 ## Members
 ---
+<br><br>
 
 ### <span style="color:#197ed6">Professor</span>  
 ---  

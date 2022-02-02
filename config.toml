@@ -27,7 +27,7 @@ enableGitInfo = true
   BookSerch=true
   BookLogo = 'img/logo.png'
   BookMenuBundle = '/menu'
-  BookServiceWorker = true
+  BookToC = true
 
 [module]
 [[module.mounts]]
