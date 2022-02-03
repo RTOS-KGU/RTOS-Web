@@ -45,7 +45,7 @@ jij7401@naver.com
 <--->
 > ## Dong-Hyun Han   
 > **Office:** RM #8514  
-mpolio2@kyonggi.ac.kr
+mpolio2@kyonggi.ac.kr  
 [**Github**](https://github.com/DongHyun99)  
 <--->  
 > ## Sun-Woo Pi
