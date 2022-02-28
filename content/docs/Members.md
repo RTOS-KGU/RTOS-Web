@@ -27,11 +27,8 @@ title: "Members"
 ---
 
 {{< columns >}}
-> ## Min-ki Kim  
-> **Office:** RM #8514  
-<--->
-> ## Sun-Won Kang
-> **Office:** RM #8514  
+> ## Rabeea Fatma Khan  
+> **Office:** RM #8514   
 {{</ columns >}}
 
 ### <span style="color:#197ed6">Undergraduate Student</span>  
