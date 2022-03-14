@@ -3,11 +3,11 @@ title = "A Style-Based Generator Architecture for Generative Adversarial Network
 description = ""
 tags = [
     "Style Transfer",
-    "GAN",
+    "Generative Adversarial Networks",
 ]
 date = "2022-01-20"
 categories = [
-    "GAN",
+    "Generative Adversarial Networks",
 ]
 menu = "Members Only"
 +++

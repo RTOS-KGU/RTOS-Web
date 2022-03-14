@@ -3,12 +3,12 @@ title = "Multimodal Unsupervised Image-to-Image Translation"
 description = ""
 tags = [
     "Image-to-Image Translation",
-    "GAN",
+    "Generative Adversarial Networks",
     "Unsupervised"
 ]
 date = "2022-02-10"
 categories = [
-    "GAN",
+    "Generative Adversarial Networks",
 ]
 menu = "Members Only"
 +++
