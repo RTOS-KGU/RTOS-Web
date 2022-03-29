@@ -25,7 +25,7 @@ $ echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> ~/.zshrc
 
 $ source ~/.zshrc
 
-$ nohup hugo server --bind=<서버 ip 주소> --port=8080 &
+$ nohup hugo server --bind=203.249.22.240 --port=8080 &
 ```
 
 ## 논문 세미나 자료 업로드  
