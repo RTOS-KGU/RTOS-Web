@@ -1,0 +1,186 @@
+Error: unknown flag: --port-8080
+
+Usage:
+  hugo server [flags]
+
+Aliases:
+  server, serve
+
+Flags:
+      --appendPort             append port to baseURL (default true)
+  -b, --baseURL string         hostname (and path) to the root, e.g. http://spf13.com/
+      --bind string            interface to which the server will bind (default "127.0.0.1")
+  -D, --buildDrafts            include content marked as draft
+  -E, --buildExpired           include expired content
+  -F, --buildFuture            include content with publishdate in the future
+      --cacheDir string        filesystem path to cache directory. Defaults: $TMPDIR/hugo_cache/
+      --cleanDestinationDir    remove files from destination not found in static directories
+  -c, --contentDir string      filesystem path to content directory
+  -d, --destination string     filesystem path to write files to
+      --disableBrowserError    do not show build errors in the browser
+      --disableFastRender      enables full re-renders on changes
+      --disableKinds strings   disable different kind of pages (home, RSS etc.)
+      --disableLiveReload      watch without enabling live browser reload on rebuild
+      --enableGitInfo          add Git revision, date, author, and CODEOWNERS info to the pages
+      --forceSyncStatic        copy all files when static is changed.
+      --gc                     enable to run some cleanup tasks (remove unused cache files) after the build
+  -h, --help                   help for server
+      --ignoreCache            ignores the cache directory
+  -l, --layoutDir string       filesystem path to layout directory
+      --liveReloadPort int     port for live reloading (i.e. 443 in HTTPS proxy situations) (default -1)
+      --meminterval string     interval to poll memory usage (requires --memstats), valid time units are "ns", "us" (or "µs"), "ms", "s", "m", "h". (default "100ms")
+      --memstats string        log memory usage to this file
+      --minify                 minify any supported output format (HTML, XML etc.)
+      --navigateToChanged      navigate to changed content file on live browser reload
+      --noChmod                don't sync permission mode of files
+      --noHTTPCache            prevent HTTP caching
+      --noTimes                don't sync modification time of files
+      --panicOnWarning         panic on first WARNING log
+      --poll string            set this to a poll interval, e.g --poll 700ms, to use a poll based approach to watch for file system changes
+  -p, --port int               port on which the server will listen (default 1313)
+      --printI18nWarnings      print missing translations
+      --printMemoryUsage       print memory usage to screen at intervals
+      --printPathWarnings      print warnings on duplicate target paths etc.
+      --printUnusedTemplates   print warnings on unused templates.
+      --renderToDisk           render to Destination path (default is render to memory & serve from there)
+      --templateMetrics        display metrics about template executions
+      --templateMetricsHints   calculate some improvement hints when combined with --templateMetrics
+  -t, --theme strings          themes to use (located in /themes/THEMENAME/)
+      --trace file             write trace to file (not useful in general)
+  -w, --watch                  watch filesystem for changes and recreate as needed (default true)
+
+Global Flags:
+      --config string              config file (default is path/config.yaml|json|toml)
+      --configDir string           config dir (default "config")
+      --debug                      debug output
+  -e, --environment string         build environment
+      --ignoreVendorPaths string   ignores any _vendor for module paths matching the given Glob pattern
+      --log                        enable Logging
+      --logFile string             log File path (if set, logging enabled automatically)
+      --quiet                      build in quiet mode
+  -s, --source string              filesystem path to read files relative from
+      --themesDir string           filesystem path to themes directory
+  -v, --verbose                    verbose output
+      --verboseLog                 verbose logging
+
+Start building sites … 
+hugo v0.94.2+extended linux/amd64 BuildDate=unknown
+WARN 2022/04/11 19:45:14 Bundle menu mode is deprecated and will be removed
+
+                   | EN   
+-------------------+------
+  Pages            |  62  
+  Paginator pages  |   1  
+  Non-page files   |   2  
+  Static files     | 109  
+  Processed images |   0  
+  Aliases          |  20  
+  Sitemaps         |   1  
+  Cleaned          |   0  
+
+Built in 2359 ms
+Watching for changes in /home/rtos/rtos_web/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /home/rtos/rtos_web/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:8080/ (bind address 203.249.22.240)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2022-04-11 20:06:29.749 +0900
+Source changed "/home/rtos/rtos_web/content/docs/Lectures/2021-1/DD724-Previous-Midterms-Answers.pdf": WRITE
+WARN 2022/04/11 20:06:29 Bundle menu mode is deprecated and will be removed
+Total in 13 ms
+
+Change detected, rebuilding site.
+2022-04-11 20:06:30.250 +0900
+Source changed "/home/rtos/rtos_web/content/docs/Lectures/2021-1/DD724-Previous-Midterms-Answers.pdf": WRITE
+WARN 2022/04/11 20:06:30 Bundle menu mode is deprecated and will be removed
+Total in 12 ms
+
+Change detected, rebuilding site.
+2022-04-11 20:08:21.249 +0900
+Source changed "/home/rtos/rtos_web/content/docs/Lectures/2021-1/os_home.html": WRITE
+WARN 2022/04/11 20:08:21 Bundle menu mode is deprecated and will be removed
+Total in 11 ms
+
+Change detected, rebuilding site.
+2022-04-11 20:09:01.249 +0900
+Source changed "/home/rtos/rtos_web/content/docs/Lectures/2021-1/os_home.html": WRITE
+WARN 2022/04/11 20:09:01 Bundle menu mode is deprecated and will be removed
+Total in 11 ms
+2022/04/11 21:53:30 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/11 22:05:13 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/11 22:05:18 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/12 05:06:29 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/12 14:13:29 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/12 14:20:08 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/12 20:12:05 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/13 02:25:12 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/13 17:40:14 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/15 07:40:37 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/15 08:15:46 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+
+Change detected, rebuilding site.
+2022-04-15 19:49:53.749 +0900
+Source changed "/home/rtos/rtos_web/content/_index.md": WRITE
+WARN 2022/04/15 19:49:53 Bundle menu mode is deprecated and will be removed
+Total in 31 ms
+
+Change detected, rebuilding site.
+2022-04-15 19:50:53.750 +0900
+Source changed "/home/rtos/rtos_web/content/_index.md": WRITE
+WARN 2022/04/15 19:50:53 Bundle menu mode is deprecated and will be removed
+Total in 29 ms
+2022/04/16 07:44:22 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/16 23:57:06 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/18 00:18:17 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/18 01:26:25 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/18 01:26:27 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/18 14:10:46 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/18 22:17:55 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/19 05:27:00 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/19 11:07:16 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/20 09:24:59 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/20 20:57:24 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/22 10:31:36 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/23 17:52:39 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/23 23:13:09 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/23 23:39:29 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/24 05:19:47 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/25 04:58:11 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/26 17:48:44 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/26 22:48:49 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/27 19:04:09 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/28 04:51:00 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/28 12:02:58 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/28 16:06:21 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/28 17:33:19 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/29 11:40:01 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/29 11:40:01 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/29 15:24:44 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+2022/04/29 15:52:17 http: URL query contains semicolon, which is no longer a supported separator; parts of the query may be stripped when parsed; see golang.org/issue/25192
+Start building sites … 
+hugo v0.94.2+extended linux/amd64 BuildDate=unknown
+WARN 2022/05/02 15:34:55 Bundle menu mode is deprecated and will be removed
+
+                   | EN   
+-------------------+------
+  Pages            |  62  
+  Paginator pages  |   1  
+  Non-page files   |   3  
+  Static files     | 109  
+  Processed images |   0  
+  Aliases          |  20  
+  Sitemaps         |   1  
+  Cleaned          |   0  
+
+Built in 2212 ms
+Watching for changes in /home/rtos/rtos_web/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /home/rtos/rtos_web/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:8080/ (bind address 203.249.22.240)
+Press Ctrl+C to stop

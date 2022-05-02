@@ -8,24 +8,27 @@ title: "Research"
 <br><br>
 {{<columns>}}  
 
-# Mobile Cloud Computing
+# Medical Image Analysis
 
-> 모바일 클라우드 컴퓨팅
-
-Limited resources of battery-operated mobile devices are a major obstacles for mobile applications. Recently, cloud computing has emerged as an obvious solution to the intrinsic resource limitation of mobile devices. In this area, we do research on effective, efficient, scalable, and secure run-time infrastructure to enable seamless execution of mobile applications in the mobile cloud, thus saving valuable energy resources of mobile devices. In particular, our research focuses on energy efficient resource allocation problems in complex, hybrid cloud environment.
-
----
-
-# Software Defined Networks
-
-> 소프트웨어 정의 네트워크
-
-Software-defined networking (SDN) technology is an approach to cloud computing that facilitates network management and enables programmatically efficient network configuration in order to improve network performance and monitoring. SDN is meant to address the fact that the static architecture of traditional networks is decentralized and complex while current networks require more flexibility and easy troubleshooting. SDN suggests to centralize network intelligence in one network component by disassociating the forwarding process of network packets (data plane) from the routing process (control plane). The control plane consists of one or more controllers which are considered as the brain of SDN network where the whole intelligence is incorporated. However, the intelligence centralization has its own drawbacks when it comes to security, scalability and elasticity and this is the main issue of SDN.
+> 인공지능 기반의 정상 소아 골반과 대퇴골의 발달 과정 자동 분석 및 정상 한국 소아의 고관절 발달 표본 구축 (NRF, 2022~2025)</br>
+> 성장클리닉 및 치과 교정치료에 필요한 골연령 측정 AI 시스템 시장 진출 (SBA, 2020~2021)</br>
+> 인공지능 학습용 데이터 구축사업을 위한 의료 인공지능 모델(파노라마기반) 개발 ((주)헬스허브, 2020)</br>
+> 딥러닝을 이용한 하지 길이 측정 자동화 연구  ((주)헬스허브, 2019)</br>
 
 ---
 
-# Deep Learning
+# Geospatial Artificial Intelligence
 
-> 딥러닝
+> 3차원 도시모델 연계 텍스쳐 보정 모듈 시제품 구현 및 테스트 (ETRI, 2021)</br>
+> 영상기반 음영지역 보정 시제품 제작 및 시험 (ETRI, 2019)</br>
+> 텍스처 품질개선을 위한 3D모델 기반 학습데이터 구축 및 Feasibility 테스트 (ETRI, 2018)</br>
 
-Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, semi-supervised or unsupervised.
+
+---
+
+# Network Inteligence
+
+> 영상 및 네트워크 기반 지능정보 제조 서비스 연구 (GRRC, 2020~2023)</br>
+> media-SDN: 하이브리드 방송 서비스를 위한 SDN 기반 미디어 전송 프레임워크 연구 (NRF, 2016~2019)</br>
+> 클라우드 기반의 적응형 미디어 코딩 플랫폼 (NRF, 2014~2016)</br>
+> IP기반 차세대 방송 시스템 시그널링 프레임웤 연구 (삼성전자, 2015)</br>

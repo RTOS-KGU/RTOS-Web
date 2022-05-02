@@ -7,7 +7,7 @@ title: "Lecture"
 ---
 <br><br>
 
-## **Graduate class**
+## **Graduate Classes**
 
 - BE515 Advanced Operating Systems
 - BE311 Computer Science Seminar
@@ -16,8 +16,8 @@ title: "Lecture"
 
 ## **Undergraduate Classes**
 
-- DD724 Operating Systems
+- <a href="http://rtos.kyonggi.ac.kr/docs/Lectures/2021-1/os_home.html">DD724 Operating Systems</a>
 - DD750 Java Programming
 - DD801 C Programming
-- <a href="http://rtos.kyonggi.ac.kr/rtos/lecture/2021-2/es_home.html">DD751 Embedded Systems</a>
-- <a href="http://rtos.kyonggi.ac.kr/rtos/lecture/2021-2/eos_home.html">DD820 Embedded Operating Systems</a>
+- DD751 Embedded Systems
+- DD820 Embedded Operating Systems
