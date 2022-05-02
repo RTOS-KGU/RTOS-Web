@@ -3,7 +3,11 @@ weight: 0
 title: "README"
 ---
 
+<<<<<<< HEAD
 # RTOS-Web
+=======
+# RTOS-Web README
+>>>>>>> 414d6e76002dc7dc95a1763f539517090b1283ca
 
 RTOS-Web site hugo repository입니다.  
 기본적으로 markdown 파일을 content 폴더에 넣어 포스팅하는 형식으로 이루어져있습니다.  
@@ -17,6 +21,7 @@ Theme는 Hugo의 hugo-book을 사용했습니다.
 ## 서버 재부팅 및 실행  
 
 ```bash
+<<<<<<< HEAD
 $ sudo reboot
 
 $ cd /home/rtos/rtos_web/
@@ -26,6 +31,17 @@ $ echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> ~/.zshrc
 $ source ~/.zshrc
 
 $ nohup hugo server --bind=<서버 ip 주소> --port=8080 &
+=======
+sudo reboot
+
+cd /home/rtos/rtos_web/
+
+echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> ~/.zshrc
+
+source ~/.zshrc
+
+nohup hugo server --bind=<서버 ip 주소> --port=8080 &
+>>>>>>> 414d6e76002dc7dc95a1763f539517090b1283ca
 ```
 
 ## 논문 세미나 자료 업로드  
