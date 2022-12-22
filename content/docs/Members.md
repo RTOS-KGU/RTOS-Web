@@ -12,7 +12,7 @@ title: "Members"
 {{< columns >}}
 > ## Byong-Dai Lee  
 > **Office:** RM #8317  
-**Email:** blee AT kyonggi.ac.kr  
+**Email:** blee AT kgu.ac.kr  
 **Phone:** 031-249-9676  
 {{</ columns >}}
 
@@ -20,8 +20,8 @@ title: "Members"
 ---
 
 {{< columns >}}
-> ## Rabeea Fatma Khan  
-> **Office:** RM #8514   
+> ## Rabeea Fatma Khan  > **Office:** RM #8514   
+rabeea AT healthhub.kr
 {{</ columns >}}
 
 ### <span style="color:#197ed6">Undergraduate Students</span>  
@@ -35,14 +35,38 @@ jij7401 AT naver.com
 <--->
 > ## Dong-Hyun Han   
 > **Office:** RM #8514  
-mpolio2 AT kyonggi.ac.kr  
+mpolio2 AT kgu.ac.kr  
 [**Github**](https://github.com/DongHyun99)  
-<--->  
+<--->
 > ## Sun-Woo Pi
 > **Office:** RM #8514  
-ppssww1202 AT kyonggi.ac.kr  
+ppssww1202 AT kgu.ac.kr  
 [**Github**](https://github.com/PiSunWoo)  
 {{< /columns >}}  
+
+{{< columns >}} 
+> ## Chan-Ui Hong
+> **Office:** RM #8514  
+hcu55 AT kgu.ac.kr  
+[**Github**](https://github.com/hcu55)  
+<--->  
+> ## Won-Jun Noh  
+> **Office:** RM # 8514  
+knoh9730 AT gmail.com  
+[**Github**](https://github.com/reflelia) 
+<--->  
+> ## Seung-Ha Noh  
+> **Office:** RM # 8514  
+noseungha164 AT gmail.com  
+[**Github**](https://github.com/seungha164)  
+{{< /columns >}}
+
+{{< columns >}}  
+> ## Jeong-Hyo Kim  
+> **Office:** RM # 8514  
+longkjh123 AT gmail.com  
+[**Github**](https://github.com/jjanghyo)  
+{{< /columns >}}
 
 ## Alumni  
 
@@ -59,7 +83,7 @@ ppssww1202 AT kyonggi.ac.kr
 ## Undergraduate Research Interns  
 
 - Dong-Jin Kim (B.S., 2021) -  고려대학교 석사과정
-- Sang-Hyun Kim (B.S., 2021) - 서울아산병원 마취통증의학과
+- Sang-Hyun Kim (B.S., 2021) - 포지큐브(POSICUBE)
 - Minsu Park (B.S., 2018) - NHN Entertainment
 - Sangmin Seo (B.S., 2014) - 카카오페이 (Kakao Pay)
 - Youn-Jeong Seo (B.S., 2014) - 현대 오토에버(HYUNDAI AutoEver)  

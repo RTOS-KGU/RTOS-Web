@@ -19,6 +19,7 @@ title: "Research"
 
 # Geospatial Artificial Intelligence
 
+> 텍스쳐 보정 모듈 통합 시제품 구현 및 테스트 (ETRI, 2022)</br>
 > 3차원 도시모델 연계 텍스쳐 보정 모듈 시제품 구현 및 테스트 (ETRI, 2021)</br>
 > 영상기반 음영지역 보정 시제품 제작 및 시험 (ETRI, 2019)</br>
 > 텍스처 품질개선을 위한 3D모델 기반 학습데이터 구축 및 Feasibility 테스트 (ETRI, 2018)</br>

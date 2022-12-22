@@ -8,43 +8,42 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kgu.ac.kr
 
 ## News
-<<<<<<< HEAD
-- {{<modal-text text="2022.03.01. 한국연구재단 중견연구과제 선정" id="21">}}
-우리 연구실과 계명대학교동산병원 영상의학과 연구팀과 공동으로 한국연구재단 중견연구과제에 최종 선정되었습니다. 본 연구는 세계 최초로 정상 소아의 전 연령대별로 고관절 및 대퇴골의 발달 및 골화 과정에 대한 아틀라스 구축을 목표로 하고 있습니다.
-{{</modal-text>}}
-- {{<modal-text text="2022.02.10. 2022학년 석사연구생 연구실 참여" id="20">}}
-이번 학기에 Rabeea Fatma Khan 학생이 우리 연구실의 석사연구생으로 참여하게 되었습니다.
-{{</modal-text>}}
-- {{<modal-text text="2021.12.22. 2021학년 박사연구생 연구실 참여" id="19">}}
-이번 학기에 이다영 학생이 우리 연구실의 박사연구생으로 참여하게 되었습니다.
-{{</modal-text>}}
-- {{<modal-text text="2021.12.21. 2021 Healthhub Datathon 우승" id="18">}}
-학부연구생인 문기렴 학생과 한동현 학생이 (주)헬스허브에서 개최한 2021 Healthhub Datathon(Cephalometric Landmark Detection)에서 우승했습니다.
-{{</modal-text>}}
-- {{<modal-text text="2021.12.01. 헬스허브(주) 인턴쉽" id="17">}}
-석사연구생인 김민기 학생이 이번 겨울에 헬스허브(주)에서 인턴을 시작했습니다. 헬스허브(주)는 국내 원격판독의 60%이상을 담당하고 있는 의료정보플랫폼 회사입니다.
-{{</modal-text>}}
-- {{<modal-text text="2021.11.17. 2021년 공개SW 개발자대회 은상 수상" id="16">}}
-학부연구생인 한동현 학생이 2021년 15회를 맞이하는 국내 최대 규모의 공개SW 개발자대회에서 은상을 수상했습니다.
-{{</modal-text>}}
-- {{<modal-text text="2021.10.25. 캡스톤 디자인 및 아이디어 경진대회 금상 수상" id="15">}}
-학부연구생인 한동현 학생이 (사)한국인터넷정보학회가 주최하는 ‘캡스톤 디자인 및 아이디어 해커톤’ 경진 대회에서 금상을 수상했습니다.
-{{</modal-text>}}
-- {{<modal-text text="2021.09.27. Skeletal Radiology 논문 게재" id="14">}}
-우리 연구실과 (주)헬스허브와 공동으로 집필한 "Computer-Aided Automatic Measurement of Leg Length on Full-Leg Radiographs" 논문이 Skeletal Radiology(Impact Factor: 2.199)에 최종 게재 확정되었습니다. Skeletal Radiology는영상의학 분야 중 근골격계통에서 유명한 학술지입니다.
-{{</modal-text>}}
-- {{<modal-text text="2021.09.01. 2021학년 학부연구생 연구실 참여" id="13">}}
-이번 학기에 안성준(AI컴퓨터공학부 3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
-{{</modal-text>}}
-- {{<modal-text text="2021.08.11. Scientific Reports 논문 게재" id="12">}}
-우리 연구실과 계명대학교 동산병원, (주)헬스허브와 공동으로 집필한 "Evaluation of the Feasibility of Explainable Computer-Aided Detection of Cardiomegaly on Chest Radiographs using Deep Learning" 논문이 Scientific Reports(Impact Factor: 4.379)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
-=======
 
+- {{<modal-text text="2022.12.14. Engineering Applications in Artificial Intelligence 논문 게재" id="30">}}
+연구실 석사졸업생인 장예훈 학생의 "Flow Classification using Distributions of Latent Features in Software Defined Networks: An Experimental Evaluation," 논문이 Engineering Applications in Artificial Intelligence(Impact Factor: 7.802 ) 논문지에 게재 예정입니다.  
+{{</modal-text>}}
+- {{<modal-text text="2022.11.10. Sensors 논문 게재" id="29">}}
+연구실 석사생인 Rabeea Fatma Khan 학생의 "Dual-Stage Deeply Supervised Attention-based Convolutional Neural Networks for Mandibular Canal Segmentation in CBCT Scans," 논문이 Sensors(Impact Factor: 3.847) 논문지에 게재 예정입니다. 위 논문은 (주)헬스허브와 공동연구에 대한 논문입니다.  
+{{</modal-text>}}
+- {{<modal-text text="2022.10.27. Applied Intelligence 논문 게재" id="28">}}
+연구실 석사생인 강순원 학생의 "C2ShadowGAN: Cycle-in-Cycle Generative Adversarial Network for Shadow Removal Using Unpaired Data" 논문이 Applied Intelligence(Impact Factor: 5.019) 논문지에 게재 예정입니다.
+{{</modal-text>}}
+- {{<modal-text text="2022.10.26. 식약처 인공지능 의료기기 인증(하지부동, 하지정렬 진단)" id="27">}}
+우리 연구실에서 개발한 "하지부동 및 하지정렬 진단을 위한 딥러닝 기반 자동 측정 솔루션"이 식약처 인공지능 의료기기 인증을 받았습니다. 해당 솔루션의 핵심 알고리즘은 우리 연구실과 (주)헬스허브가 공동 개발하였습니다.
+{{</modal-text>}}
+- {{<modal-text text="2022.08.10. 식약처 인공지능 의료기기 인증(심비대 진단)" id="26">}}
+우리 연구실에서 개발한 "심비대증 진단을 위한 딥러닝 기반 심흉곽비 (CT Ratio) 자동 측정 솔루션"이 식약처 인공지능 의료기기 인증을 받았습니다. 해당 솔루션의 핵심 알고리즘은 우리 연구실에서 개발하고, (주)헬스허브에서 SW 최적화 및 상품화 작업을 담당하였습니다.
+{{</modal-text>}}
+- {{<modal-text text="2022.06.23. ETRI 하계연구연수생 최종 선정" id="25">}}
+연구실 학부연구생인 한동현 학생이 이번 여름에 한국전자통신연구원(ETRI) 하계연구연수생에 최종 선정되었습니다. 한동현 학생은 딥러닝 기반 도시영상 텍스쳐 개선 연구를 수행할 예정입니다. 
+{{</modal-text>}}
+- {{<modal-text text="2022.06.23. 헬스허브(주) 인턴쉽" id="24">}}
+연구실 학부연구생인 문기렴 학생이 이번 여름에 헬스허브(주)에서 인턴을 시작했습니다. 헬스허브(주)는 국내 원격판독의 60%이상을 담당하고 있는 의료정보플랫폼 회사입니다.
+{{</modal-text>}}
+- {{<modal-text text="2022.06.17. 2022학년 학부연구생 연구실 참여" id="23">}}
+이번 학기에 노원준(컴퓨터공학부4년), 노승하, 김정효(컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
+{{</modal-text>}}
+- {{<modal-text text="2022.05.04. 2022학년 학부연구생 연구실 참여" id="22">}}
+이번 학기에 홍찬의(컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
+{{</modal-text>}}
 - {{<modal-text text="2022.03.10. 2022학년 석사연구생 연구실 참여" id="20">}}
 이번 학기에 Rabeea Fatma Khan 학생이 우리 연구실의 석사연구생으로 참여하게 되었습니다.
 {{</modal-text>}}
+- {{<modal-text text="2022.03.01. 한국연구재단 중견연구과제 선정" id="21">}}
+우리 연구실과 계명대학교동산병원 영상의학과 연구팀과 공동으로 한국연구재단 중견연구과제에 최종 선정되었습니다. 본 연구는 세계 최초로 정상 소아의 전 연령대별로 고관절 및 대퇴골의 발달 및 골화 과정에 대한 아틀라스 구축을 목표로 하고 있습니다.
+{{</modal-text>}}
 - {{<modal-text text="2022.01.17. 2022학년 학부연구생 연구실 참여" id="19">}}
-이번 학기에 한동현(AI컴퓨터공학부 3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
+이번 학기에 피선우(AI컴퓨터공학부 3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
 {{</modal-text>}}
 - {{<modal-text text="2021.12.22. 2021학년 박사연구생 연구실 참여" id="18">}}
 이번 학기에 이다영 학생이 우리 연구실의 박사연구생으로 참여하게 되었습니다.
@@ -54,43 +53,10 @@ We are looking for talented and motivated students to join our lab, on the under
 {{</modal-text>}}
 - {{<modal-text text="2021.11.17. 2021년 공개SW 개발자대회 은상 수상" id="16">}}
 우리 연구실 학부연구생인 한동현 학생이 2021년 15회를 맞이하는 국내 최대 규모의 공개SW 개발자대회에서 은상을 수상했습니다.
->>>>>>> 414d6e76002dc7dc95a1763f539517090b1283ca
 {{</modal-text>}}
-- {{<modal-text text="2021.07.23. IEEE Access 논문 게재" id="11">}}
-석사연구생인 김민기 학생의 "A Simple Generic Method for Effective Boundary Extraction in Medical Image Segmentation" 논문이 IEEE Access(Impact Factor: 3.367) 게재 예정입니다.
+- {{<modal-text text="2021.10.25. 캡스톤 디자인 및 아이디어 경진대회 금상 수상" id="15">}}
+우리 연구실 학부연구생인 한동현 학생이 (사)한국인터넷정보학회가 주최하는 ‘캡스톤 디자인 및 아이디어 해커톤’ 경진 대회에서 금상을 수상했습니다.
 {{</modal-text>}}
-- {{<modal-text text="2021.06.21. 2021학년 학부연구생 연구실 참여" id="10">}}
-이번 학기에 이효진(융합보안학과 4년), 문기렴(AI컴퓨터공학부 3년), 한동현(AI컴퓨터공학부 3년), 신종욱(융합보안학과 3년) 학생들이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
-{{</modal-text>}}
-- {{<modal-text text="2021.06.15. 석사학생 졸업논문 공개발표" id="9">}}
-우리 연구실 석사 3학기생인 강순원, 김민기 학생이 석사논문 공개발표를 무사히 끝맞쳤습니다
-{{</modal-text>}}
-- {{<modal-text text="2021.01.06. Sensors 논문 게재" id="8">}}
-석사연구생인 김민기 학생의 "Automatic Lung Segmentation on Chest X-rays Using Self-Attention Deep Neural Networks" 논문이 Sensors(Impact Factor: 3.275) 게재 예정입니다.
-{{</modal-text>}}
-- {{<modal-text text="2020.10.21. 2020 한국인터넷정보학회 추계학술발표대회 우수 논문상 수상" id="7">}}
-석사연구생인 장예훈 학생의 "SDN 환경에서 VAE 기반의 응용 서비스 플로우 자동 분류 기법" 논문이 2020 한국인터넷정보학회 추계학술발표대회에서 우수 논문상으로 선정되었습니다.
-{{</modal-text>}}
-- {{<modal-text text="2020.10.21. Korean Journal of Radiology 논문 게재" id="6">}}
-우리 연구실과 계명대학교 동산병원 영상의학과 연구실과 공동 집필한 "Automated Bone Age Assessment using Artificial Intelligence; The Future of Bone Age Assessment" 논문이 Korean Journal of Radiology(Impact Factor: 3.179)에 게재 예정입니다.
-{{</modal-text>}}
-- {{<modal-text text="2020.09.01. Imaging Science in Dentistry 논문 게재" id="5">}}
-우리 연구실에서 개발한 딥러닝 기반 BAA 시스템의 임상 실험 결과를 바탕으로 서울대학교 치과대학 연구팀과 공동으로 작성한 논문인 "Evaluation of the Clinical Efficacy of a TW3-based Fully Automated Bone Age Assessment System using Deep Neural Networks"이 Imaging Science in Dentistry에 계재되었습니다.
-{{</modal-text>}}
-- {{<modal-text text="2020.09.01. Multimedia Tools and Applications 논문 게재" id="4">}}
-학부연구생인 김상현 학생의 "Classification of Colorectal Cancer in Histological Images using Deep Neural Networks: An Investigation" 논문이 Multimedia Tools and Application(Impact Factor: 2.313) 게재 예정입니다.
-{{</modal-text>}}
-- {{<modal-text text="2020.07.14. Scientific Reports 논문 게재" id="3">}}
-"Volumetric Lung Nodule Segmentation using Adaptive ROI with Multi-view Residual Learning" 논문이 Scientific Reports(Impact Factor: 4.379)에 게졔되었습니다. Scientific Reports는 Nature 자매지입니다.
-{{</modal-text>}}
-- {{<modal-text text="2020.07.01. 헬스허브(주) 인턴쉽" id="2">}}
-석사연구생인 이찬수 학생이 이번 여름에 헬스허브(주)에서 인턴을 시작했습니다. 헬스허브(주)는 국내 원격판독의 60%이상을 담당하고 있는 의료정보플랫폼 회사입니다.
-{{</modal-text>}}
-- {{<modal-text text="2020.03.05. Scientific Reports 논문 게재" id="1">}}
-GRRC 연구과제 지원을 받은 "Retrospective Motion Correction in Multishot MRI using Generative Adversarial Network" 논문이 Scientific Reports(Impact Factor: 4.379)에 게재되었습니다. Scientific Reports는 Nature 자매지입니다.
-{{</modal-text>}}
-<<<<<<< HEAD
-=======
 - {{<modal-text text="2021.09.27. Skeletal Radiology 논문 게재" id="14">}}
 우리 연구실과 (주)헬스허브와 공동으로 작성한 "Computer-Aided Automatic Measurement of Leg Length on Full-Leg Radiographs" 논문이 Skeletal Radiology (Impact Factor: 2.199)에 최종 게재 확정되었습니다. Skeletal Radiology는영상의학 분야 중 근골격계통에서 유명한 학술지입니다.
 {{</modal-text>}}
@@ -133,4 +99,3 @@ GRRC 연구과제 지원을 받은 "Retrospective Motion Correction in Multishot
 - {{<modal-text text="2020.03.05. Scientific Reports 논문 게재" id="1">}}
 GRRC 지원을 받은 "Retrospective Motion Correction in Multishot MRI using Generative Adversarial Network" 논문이 Scientific Reports에 게재되었습니다. Scientific Reports는 Nature 자매지입니다.
 {{</modal-text>}}
->>>>>>> 414d6e76002dc7dc95a1763f539517090b1283ca

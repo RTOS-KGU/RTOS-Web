@@ -6,9 +6,11 @@ title: "International Journals"
 # International Journals
 ---
 <br><br>
-- "C2ShadowGAN: Cycle-in-Cycle Generative Adversarial Network for Shadow Removal Using Unpaired Data," under review.
-- "Flow Classification using Distributions of Latent Features in Software Defined Networks: An Experimental Evaluation," under review.
-- Chan Su Lee, Mu Sook Lee, Shi Sub Byon, Sung Hyun Kim, Byoung Il Lee, and Byoung-Dai Lee, "Computer-Aided Automatic Measurement of Leg Length on Full-Leg Radiographs," to appear in <i>Skeletal Radiology</i>, 2021.
+- "Unsupervised Anomaly Detection for Posteroanterior Chest X-Rays Using Multiresolution Patch-Based Self-Supervised Learning," under review.
+- "Flow Classification using Distributions of Latent Features in Software Defined Networks: An Experimental Evaluation," to appear in <i>Engineering Applications in Artificial Intelligence</i>, 2023.
+- "C2ShadowGAN: Cycle-in-Cycle Generative Adversarial Network for Shadow Removal Using Unpaired Data," to appear in <i>Applied Intelligence</i>, 2022.
+- "Dual-Stage Deeply Supervised Attention-based Convolutional Neural Networks for Mandibular Canal Segmentation in CBCT Scans," <i>Sensors</i>, 22(24), 2022. 
+- Chan Su Lee, Mu Sook Lee, Shi Sub Byon, Sung Hyun Kim, Byoung Il Lee, and Byoung-Dai Lee, "Computer-Aided Automatic Measurement of Leg Length on Full-Leg Radiographs," <i>Skeletal Radiology</i>, 51, 2022.
 - Mu Sook Lee, Yong Soo Kim, Minki Kim, Muhammad Usman, Shi Sub Byon, Sung Hyun Kim, Byoung Il Lee, and Byoung-Dai Lee, "Evaluation of the Feasibility of Explainable Computer-Aided Diagnosis for Detection of Cardiomegaly on Chest Radiographs using Deep Learning," <i>Scientific Reports</i>, 11(16885), 2021.
 - Minki Kim and Byoung-Dai Lee, "A Simple Generic Method for Effective Boundary Extraction in Medical Image Segmentation," <i>IEEE Access</i>, 9, 2021.
 - Byoung-Dai Lee and Mu Sook Lee, "Automated Bone Age Assessment using Artificial Intelligence; The Future of Bone Age Assessment," <i>Korean Journal of Radiology</i>, 22(5), 2021.

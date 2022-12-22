@@ -16,8 +16,8 @@ title: "Lecture"
 
 ## **Undergraduate Classes**
 
-- <a href="http://rtos.kyonggi.ac.kr/docs/Lectures/2021-1/os_home.html">DD724 Operating Systems</a>
+- DD724 Operating Systems
 - DD750 Java Programming
 - DD801 C Programming
-- DD751 Embedded Systems
+- [**DD751 Embedded Systems**]({{< relref "/content/docs/Lectures/2022-2/ES/es_home.md">}})  
 - DD820 Embedded Operating Systems
