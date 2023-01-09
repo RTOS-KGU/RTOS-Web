@@ -22,7 +22,7 @@ title: "Members"
 {{< columns >}}
 > ## Rabeea Fatma Khan  
 > **Office:** RM #8514   
-rabeea AT healthhub.kr
+**Email:** rabeea AT healthhub.kr
 {{</ columns >}}
 
 ### <span style="color:#197ed6">Undergraduate Students</span>  
