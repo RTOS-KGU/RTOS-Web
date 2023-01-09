@@ -20,7 +20,8 @@ title: "Members"
 ---
 
 {{< columns >}}
-> ## Rabeea Fatma Khan  > **Office:** RM #8514   
+> ## Rabeea Fatma Khan  
+> **Office:** RM #8514   
 rabeea AT healthhub.kr
 {{</ columns >}}
 
