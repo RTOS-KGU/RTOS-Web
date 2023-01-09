@@ -19,5 +19,6 @@ title: "Lecture"
 - DD724 Operating Systems
 - DD750 Java Programming
 - DD801 C Programming
-- [**DD751 Embedded Systems**]({{< relref "/content/docs/Lectures/2022-2/ES/es_home.md">}})  
+- DD751 Embedded Systems  
+- [**DD812 Web Programming**]({{< relref "/content/docs/Lectures/2022-2/Web/web_home.md">}})  
 - DD820 Embedded Operating Systems
