@@ -12,7 +12,7 @@ title: "Members"
 {{< columns >}}
 > ## Byong-Dai Lee  
 > **Office:** RM #8317  
-**Email:** blee AT kgu.ac.kr  
+**Email:** blee AT kyonggi.ac.kr  
 **Phone:** 031-249-9676  
 {{</ columns >}}
 
@@ -23,49 +23,49 @@ title: "Members"
 > ## Rabeea Fatma Khan  
 > **Office:** RM #8514   
 **Email:** rabeea AT healthhub.kr
+<--->
+> ## Ki-Ryum Moon
+> **Office:** RM #8514  
+**Email:** jij7401 AT naver.com  
+[**Github**](https://github.com/jij7401)   
 {{</ columns >}}
+
+{{< columns >}}
+> ## Dong-Hyun Han   
+> **Office:** RM #8514  
+**Email:** mpolio2 AT kyonggi.ac.kr   
+[**Github**](https://github.com/DongHyun99)  
+<--->
+> ## Won-Jun Noh  
+> **Office:** RM # 8514  
+**Email:** knoh9730 AT gmail.com  
+[**Github**](https://github.com/reflelia) 
+{{< /columns >}}
 
 ### <span style="color:#197ed6">Undergraduate Students</span>  
 ---
 
 {{< columns >}}  
-> ## Ki-Ryum Moon
-> **Office:** RM #8514  
-jij7401 AT naver.com  
-[**Github**](https://github.com/jij7401)   
-<--->
-> ## Dong-Hyun Han   
-> **Office:** RM #8514  
-mpolio2 AT kgu.ac.kr  
-[**Github**](https://github.com/DongHyun99)  
-<--->
 > ## Sun-Woo Pi
 > **Office:** RM #8514  
-ppssww1202 AT kgu.ac.kr  
-[**Github**](https://github.com/PiSunWoo)  
+**Email:** ppssww1202 AT kyonggi.ac.kr   
+[**Github**](https://github.com/PiSunWoo)
+<--->   
+> ## Chan-Ui Hong
+> **Office:** RM #8514  
+**Email:** hcu55 AT kyonggi.ac.kr   
+[**Github**](https://github.com/hcu55)  
 {{< /columns >}}  
 
 {{< columns >}} 
-> ## Chan-Ui Hong
-> **Office:** RM #8514  
-hcu55 AT kgu.ac.kr  
-[**Github**](https://github.com/hcu55)  
-<--->  
-> ## Won-Jun Noh  
-> **Office:** RM # 8514  
-knoh9730 AT gmail.com  
-[**Github**](https://github.com/reflelia) 
-<--->  
 > ## Seung-Ha Noh  
 > **Office:** RM # 8514  
-noseungha164 AT gmail.com  
+**Email:** noseungha164 AT gmail.com  
 [**Github**](https://github.com/seungha164)  
-{{< /columns >}}
-
-{{< columns >}}  
+<--->   
 > ## Jeong-Hyo Kim  
 > **Office:** RM # 8514  
-longkjh123 AT gmail.com  
+**Email:** longkjh123 AT gmail.com  
 [**Github**](https://github.com/jjanghyo)  
 {{< /columns >}}
 

@@ -9,6 +9,9 @@ We are looking for talented and motivated students to join our lab, on the under
 
 ## News
 
+- {{<modal-text text="2023.01.19. 제조업 노동자 근골격계 부담요인 예방을 위한 '인공지능 데이터 구축 해커톤' 5위 " id="31">}}
+우리 연구실의 노원준, 문기렴, 피선우, 홍찬의, 노승하 학생이 Nado Maker Space에서 주최한 제조업 노동자 근골격계 부담요인 예방을 위한 '인공지능 데이터 구축 해커톤' 대회에서 최종 5위를 달성했습니다.  
+{{</modal-text>}}
 - {{<modal-text text="2022.12.14. Engineering Applications in Artificial Intelligence 논문 게재" id="30">}}
 연구실 석사졸업생인 장예훈 학생의 "Flow Classification using Distributions of Latent Features in Software Defined Networks: An Experimental Evaluation," 논문이 Engineering Applications in Artificial Intelligence(Impact Factor: 7.802 ) 논문지에 게재 예정입니다.  
 {{</modal-text>}}

@@ -41,9 +41,7 @@
 .slide {
     list-style: none;
     position: relative;
-    float: left;
-    margin: 15px;
-    padding: 0;
+    margin: 10px;
     width: {{ $.Scratch.Get "width" }};
     height: {{ $.Scratch.Get "height" }};
     background: #ccc;
@@ -83,15 +81,12 @@
 </style>
 
 <!-- Gallery -->
-
-    <ol id="slides-list">
-        <script>
-            for (i=33;i>=0;i--)
-                {document.write("<li class=slide style=background-image:url('/img/portfolio/",i,".jpg');></li>")}
-        </script>
-    </ol>
-    <span class="nav fa {{ $.Scratch.Get "arrow-left" }} fa-3x" id="left"></span>
-    <span class="nav fa {{ $.Scratch.Get "arrow-right" }} fa-3x" id="right"></span>
+<script>
+    for (i=33;i>=0;i--)
+        {document.write("<li class=slide style=background-image:url('/img/portfolio/",i,".jpg');></li>")}
+</script>
+<span class="nav fa {{ $.Scratch.Get "arrow-left" }} fa-3x" id="left"></span>
+<span class="nav fa {{ $.Scratch.Get "arrow-right" }} fa-3x" id="right"></span>
 
 <script>
 sliderJQuery = jQuery.noConflict();
