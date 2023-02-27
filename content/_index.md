@@ -9,6 +9,9 @@ We are looking for talented and motivated students to join our lab, on the under
 
 ## News
 
+- {{<modal-text text="2023.02.27. Scientific Reports 논문 게재" id="32">}}
+연구실 석사생인  김민기, 문기렴 학생의 "Unsupervised Anomaly Detection for Posteroanterior Chest X-Rays Using Multiresolution Patch-Based Self-Supervised Learning" 논문이 Scientific Reports (Impact Factor: 4.379)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
+{{</modal-text>}}
 - {{<modal-text text="2023.01.19. 제조업 노동자 근골격계 부담요인 예방을 위한 '인공지능 데이터 구축 해커톤' 5위 " id="31">}}
 우리 연구실의 노원준, 문기렴, 피선우, 홍찬의, 노승하 학생이 Nado Maker Space에서 주최한 제조업 노동자 근골격계 부담요인 예방을 위한 '인공지능 데이터 구축 해커톤' 대회에서 최종 5위를 달성했습니다.  
 {{</modal-text>}}

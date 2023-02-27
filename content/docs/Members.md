@@ -71,7 +71,7 @@ title: "Members"
 
 ## Alumni  
 
-- Minki Kim (M.S., 2022)   
+- Minki Kim (M.S., 2022) - 알피니언메디칼시스템(Alpinion)  
 - Sunwon Kang (M.S., 2022) - 피니뷰(finiview)  
 - Ye-Hoon Jang (M.S., 2021) - 아토리서치(ATTO Research)  
 - Chansu Lee (M.S., 2021) - 헬스허브(HealthHub)  
