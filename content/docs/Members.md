@@ -51,18 +51,13 @@ title: "Members"
 **Email:** ppssww1202 AT kyonggi.ac.kr   
 [**Github**](https://github.com/PiSunWoo)
 <--->   
-> ## Chan-Ui Hong
-> **Office:** RM #8514  
-**Email:** hcu55 AT kyonggi.ac.kr   
-[**Github**](https://github.com/hcu55)  
-{{< /columns >}}  
-
-{{< columns >}} 
 > ## Seung-Ha Noh  
 > **Office:** RM # 8514  
 **Email:** noseungha164 AT gmail.com  
 [**Github**](https://github.com/seungha164)  
-<--->   
+{{< /columns >}}  
+
+{{< columns >}}
 > ## Jeong-Hyo Kim  
 > **Office:** RM # 8514  
 **Email:** longkjh123 AT gmail.com  
