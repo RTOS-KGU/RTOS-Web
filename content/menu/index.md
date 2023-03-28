@@ -10,3 +10,6 @@ headless: true
   - [Domestic Publications]({{< relref "content/docs/Publication/Domestic Publications.md">}})
 - [**Lectures**]({{< relref "content/docs/Lecture.md">}})  
 - [**Photos**]({{< relref "content/docs/Photos.md">}})  
+- **Proceedings List-Up**
+  - [2023 Conferences]({{< relref "content/docs/Journals & Conferences/Conferences.md">}})
+  - [2023 Journals]({{< relref "content/docs/Journals & Conferences/Journals.md">}})

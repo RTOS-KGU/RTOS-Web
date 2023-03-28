@@ -71,7 +71,7 @@ title: "Members"
 - Ye-Hoon Jang (M.S., 2021) - 아토리서치(ATTO Research)  
 - Chansu Lee (M.S., 2021) - 헬스허브(HealthHub)  
 - Myunghoon Jeon (Ph.D., 2019) - 퍼즐데이터(PuzzleData)  
-- Dong-Joo Choi (M.S., 2017) - 쿠팡(Coopang)  
+- Dong-Joo Choi (M.S., 2017) - 쿠팡(Coupang)  
 - Han-bin Kim (M.S., 2017) - 삼성전자(Samsung Electronics)  
 - Dong-Ryeol Kim (M.S., 2017) - 현대 오토에버(HYUNDAI AutoEver)  
 - Kwang-Ho Lim (M.S., 2014) - 삼성전자(Samsung Electronics)  
