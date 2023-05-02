@@ -49,7 +49,7 @@ title: "Members"
 > ## Sun-Woo Pi
 > **Office:** RM #8514  
 **Email:** ppssww1202 AT kyonggi.ac.kr   
-[**Github**](https://github.com/PiSunWoo)
+[**Github**](https://github.com/SunWoo98Pi)
 <--->   
 > ## Seung-Ha Noh  
 > **Office:** RM # 8514  
