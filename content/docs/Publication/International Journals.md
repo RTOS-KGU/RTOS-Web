@@ -6,7 +6,10 @@ title: "International Journals"
 # International Journals
 ---
 <br><br>
-- "Unsupervised Anomaly Detection for Posteroanterior Chest X-Rays Using Multiresolution Patch-Based Self-Supervised Learning," to appear in <i>Scientific Reports</i>, 2023.
+- "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees," submitted for publication.
+- "A Deep Learning Approach for Fully Automated Measurements of Lower Extremity Alignment on Radiographic Images," submitted for publication.
+- "Transformers in Medical Image Segmentation: a Review," submitted for publication.
+- Minki Kim, Ki-Ryum Moon, and Byoung-Dai Lee, "Unsupervised Anomaly Detection for Posteroanterior Chest X-Rays Using Multiresolution Patch-Based Self-Supervised Learning," <i>Scientific Reports</i>, 13(3415), 2023.
 - Yehoon Jang, Namgi Kim, and Byoung-Dai Lee, "Flow Classification using Distributions of Latent Features in Software Defined Networks: An Experimental Evaluation," <i>Engineering Applications in Artificial Intelligence</i>, 119, 2023.
 - Sunwon Kang, Juwan Kim, In Sung Jang, and Byoung-Dai Lee, "C2ShadowGAN: Cycle-in-Cycle Generative Adversarial Network for Shadow Removal Using Unpaired Data," <i>Applied Intelligence</i>, 2023.
 - "Dual-Stage Deeply Supervised Attention-based Convolutional Neural Networks for Mandibular Canal Segmentation in CBCT Scans," <i>Sensors</i>, 22(24), 2022. 

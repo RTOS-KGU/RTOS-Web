@@ -9,6 +9,12 @@ We are looking for talented and motivated students to join our lab, on the under
 
 ## News
 
+- {{<modal-text text="2023.05.26. 미국 실리콘벨리 기업 인턴쉽" id="34">}}
+연구실 학부 연구생인 김정효 학생이 미국 실리콘벨리 기업 인턴쉽 프로그램에 최종 합격하였습니다. 김정효 학생은 올해 6월부터 12월까지 실리콘벨리에 위치한 Bear Robotics에서 인턴을 수행할 예정입니다.
+{{</modal-text>}}
+- {{<modal-text text="2023.05.26. 헬스허브(주) 인턴쉽" id="33">}}
+연구실 석사 연구생인 문기렴 학생과 학부 연구생인 피선우 학생이 이번 여름에 헬스허브(주)에서 인턴을 시작했습니다. 헬스허브(주)는 국내 원격판독의 60%이상을 담당하고 있는 의료정보플랫폼 회사입니다.
+{{</modal-text>}}
 - {{<modal-text text="2023.02.27. Scientific Reports 논문 게재" id="32">}}
 연구실 석사생인  김민기, 문기렴 학생의 "Unsupervised Anomaly Detection for Posteroanterior Chest X-Rays Using Multiresolution Patch-Based Self-Supervised Learning" 논문이 Scientific Reports (Impact Factor: 4.379)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
 {{</modal-text>}}
