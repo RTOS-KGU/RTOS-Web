@@ -9,6 +9,9 @@ We are looking for talented and motivated students to join our lab, on the under
 
 ## News
 
+- {{<modal-text text="2023.06.12. ETRI 하계연구연수생 최종 선정" id="35">}}
+연구실 학부연구생인 노승하 학생이 이번 여름에 한국전자통신연구원(ETRI) 하계연구연수생에 최종 선정되었습니다. 노승하 학생은 시각지능 연구실에서 컴퓨터 비전 관련 연구를  수행할 예정입니다. 
+{{</modal-text>}}
 - {{<modal-text text="2023.05.26. 미국 실리콘벨리 기업 인턴쉽" id="34">}}
 연구실 학부 연구생인 김정효 학생이 미국 실리콘벨리 기업 인턴쉽 프로그램에 최종 합격하였습니다. 김정효 학생은 올해 6월부터 12월까지 실리콘벨리에 위치한 Bear Robotics에서 인턴을 수행할 예정입니다.
 {{</modal-text>}}
