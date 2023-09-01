@@ -48,7 +48,7 @@ title: "Members"
 {{< columns >}}  
 > ## Sun-Woo Pi
 > **Office:** RM #8514  
-**Email:** ppssww1202 AT kyonggi.ac.kr   
+**Email:** ppssww1202 AT naver.com   
 [**Github**](https://github.com/SunWoo98Pi)
 <--->   
 > ## Seung-Ha Noh  
@@ -61,20 +61,32 @@ title: "Members"
 > ## Jeong-Hyo Kim  
 > **Office:** RM # 8514  
 **Email:** longkjh123 AT gmail.com  
-[**Github**](https://github.com/jjanghyo)  
+[**Github**](https://github.com/jjanghyo)
+<--->   
+> ## Hae-Yeon Kim  
+> **Office:** RM # 8514  
+**Email:** hyhy020301 AT gmail.com  
+[**Github**](https://github.com/sunkite3-3)
+{{< /columns >}}
+
+{{< columns >}}
+> ## Myeong-Gyun Jang 
+> **Office:** RM # 8514  
+**Email:** jmk000725 AT kyonggi.ac.kr  
+[**Github**](https://github.com/Mang9oo/myeonggyunjang.git)
 {{< /columns >}}
 
 ## Alumni  
 
 - Minki Kim (M.S., 2022) - 알피니언메디칼시스템(Alpinion)  
-- Sunwon Kang (M.S., 2022) - 피니뷰(finiview)  
-- Ye-Hoon Jang (M.S., 2021) - 아토리서치(ATTO Research)  
-- Chansu Lee (M.S., 2021) - 헬스허브(HealthHub)  
-- Myunghoon Jeon (Ph.D., 2019) - 퍼즐데이터(PuzzleData)  
-- Dong-Joo Choi (M.S., 2017) - 쿠팡(Coupang)  
-- Han-bin Kim (M.S., 2017) - 삼성전자(Samsung Electronics)  
-- Dong-Ryeol Kim (M.S., 2017) - 현대 오토에버(HYUNDAI AutoEver)  
-- Kwang-Ho Lim (M.S., 2014) - 삼성전자(Samsung Electronics)  
+- Sunwon Kang (M.S., 2022) - 비주얼신(Visualsyn)
+- Ye-Hoon Jang (M.S., 2021) - 아토리서치(ATTO Research)
+- Chansu Lee (M.S., 2021) - 셀렉트스타(SELECTSTAR)
+- Myunghoon Jeon (Ph.D., 2019) - 퍼즐데이터(PuzzleData)
+- Dong-Joo Choi (M.S., 2017) - 쿠팡(Coupang)
+- Han-bin Kim (M.S., 2017) - 삼성전자(Samsung Electronics)
+- Dong-Ryeol Kim (M.S., 2017) - 현대 오토에버(HYUNDAI AutoEver)
+- Kwang-Ho Lim (M.S., 2014) - 삼성전자(Samsung Electronics)
 
 ## Undergraduate Research Interns  
 

@@ -8,9 +8,17 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
-
+- {{<modal-text text="2023.08.25. Scientific Reports 논문 게재" id="38">}}
+연구실 석사생인  문기렴 학생의 "A deep learning approach for fully automated measurements of lower extremity alignment on radiographic images" 논문이 Scientific Reports (Impact Factor: 4.6)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
+{{</modal-text>}}
+- {{<modal-text text="2023.08.21. 2023 K-SW스퀘어 겨울방학 프로그램 최종 선정" id="37">}}
+연구실 학부연구생인 피선우 학생이 IITP(정보통신기획평가원)에서 주최하는 2023년 K-SW스퀘어 겨울방학 프로그램에 최종 선정되어 겨울방학 동안 미국 퍼듀 대학에서 생활하게 되었습니다.
+{{</modal-text>}}
+- {{<modal-text text="2023.06.19. 2023 AI컴퓨터공학부 산학협력 프로젝트 경진대회 대상 수상" id="36">}}
+연구실 학부연구생인 피선우, 노승하, 김정효 학생이 "딥러닝 기반 실시간 포즈 추청 기술을 활용한 육아 수첩 애플리케이션" 주제로 2023 AI컴퓨터공학부 산학협력 프로젝트 경진대회 4학년 심화캡스톤디자인 부분에서 대상을 수상하였습니다.
+{{</modal-text>}}
 - {{<modal-text text="2023.06.12. ETRI 하계연구연수생 최종 선정" id="35">}}
-연구실 학부연구생인 노승하 학생이 이번 여름에 한국전자통신연구원(ETRI) 하계연구연수생에 최종 선정되었습니다. 노승하 학생은 시각지능 연구실에서 컴퓨터 비전 관련 연구를  수행할 예정입니다. 
+연구실 학부연구생인 노승하 학생이 이번 여름에 한국전자통신연구원(ETRI) 하계연구연수생에 최종 선정되었습니다. 노승하 학생은 시각지능 연구실에서 컴퓨터 비전 관련 연구를 수행할 예정입니다. 
 {{</modal-text>}}
 - {{<modal-text text="2023.05.26. 미국 실리콘벨리 기업 인턴쉽" id="34">}}
 연구실 학부 연구생인 김정효 학생이 미국 실리콘벨리 기업 인턴쉽 프로그램에 최종 합격하였습니다. 김정효 학생은 올해 6월부터 12월까지 실리콘벨리에 위치한 Bear Robotics에서 인턴을 수행할 예정입니다.
