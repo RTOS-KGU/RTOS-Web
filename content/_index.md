@@ -8,6 +8,16 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2023.10.24. 2023 디지털병리 AI 해커톤 장려상 수상" id="41">}}
+연구실 석사생으로 구성된 D&K팀(한동현, 문기렴, 노원준)이 가톨릭대학교 가톨릭중앙의료원 정보융합진흥원이 개최한 ‘2023년 디지털병리 AI 해커톤’에서 장려상을 수항하였습니다. 본선 진출 20개 팀중에서 1위 포항공대, 2위 (주)에이비스에 이어 서울대 의대와 공동으로 3위에 입상하였습니다. <br>
+<a href="https://www.medifonews.com/news/article.html?no=183704">관련 기사</a>
+{{</modal-text>}}
+- {{<modal-text text="2023.09.14. Quantitative Imaging in Medicine and Surgery 논문 게재" id="40">}}
+연구실 석사생인 Rabeea Fatma Khan 학생의 "Transformers in medical image segmentation: a narrative review" 논문이 Quantitative Imaging in Medicine and Surgery (Impact Factor: 2.8)에 최종 게재 확정되었습니다.
+{{</modal-text>}}
+- {{<modal-text text="2023.09.07. 2023학년 학부연구생 연구실 참여" id="39">}}
+이번 학기에 김해연(AI 컴퓨터공학부3년), 장명균(AI 컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다
+{{</modal-text>}}
 - {{<modal-text text="2023.08.25. Scientific Reports 논문 게재" id="38">}}
 연구실 석사생인  문기렴 학생의 "A deep learning approach for fully automated measurements of lower extremity alignment on radiographic images" 논문이 Scientific Reports (Impact Factor: 4.6)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
 {{</modal-text>}}

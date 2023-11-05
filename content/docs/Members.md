@@ -73,7 +73,7 @@ title: "Members"
 > ## Myeong-Gyun Jang 
 > **Office:** RM # 8514  
 **Email:** jmk000725 AT kyonggi.ac.kr  
-[**Github**](https://github.com/Mang9oo/myeonggyunjang.git)
+[**Github**](https://github.com/Mang9oo)
 {{< /columns >}}
 
 ## Alumni  

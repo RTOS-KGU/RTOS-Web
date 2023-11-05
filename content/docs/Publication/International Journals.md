@@ -6,9 +6,9 @@ title: "International Journals"
 # International Journals
 ---
 <br><br>
-- "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees," submitted for publication.
-- "Transformers in Medical Image Segmentation: a Review," under revision.
-- Ki-Ryum Moon, Byoung-Dai Lee, and Mu Sook Lee, "A Deep Learning Approach for Fully Automated Measurements of Lower Extremity Alignment on Radiographic Images," to appear in <i>Scientific Reports</i>, 2023. 
+- "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees," under revision.
+- Rabeea Fatma Khan, Byoung-Dai Lee, and Mu Sook Lee, "Transformers in Medical Image Segmentation: a Review," to appear in <i>Quantitative Imaging in Medicine and Surgery</i>, 2023.
+- Ki-Ryum Moon, Byoung-Dai Lee, and Mu Sook Lee, "A Deep Learning Approach for Fully Automated Measurements of Lower Extremity Alignment on Radiographic Images," 13(14692),  <i>Scientific Reports</i>, 2023. 
 - Minki Kim, Ki-Ryum Moon, and Byoung-Dai Lee, "Unsupervised Anomaly Detection for Posteroanterior Chest X-Rays Using Multiresolution Patch-Based Self-Supervised Learning," <i>Scientific Reports</i>, 13(3415), 2023.
 - Yehoon Jang, Namgi Kim, and Byoung-Dai Lee, "Flow Classification using Distributions of Latent Features in Software Defined Networks: An Experimental Evaluation," <i>Engineering Applications in Artificial Intelligence</i>, 119, 2023.
 - Sunwon Kang, Juwan Kim, In Sung Jang, and Byoung-Dai Lee, "C2ShadowGAN: Cycle-in-Cycle Generative Adversarial Network for Shadow Removal Using Unpaired Data," <i>Applied Intelligence</i>, 53, 2023.

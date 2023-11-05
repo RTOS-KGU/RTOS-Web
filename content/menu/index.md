@@ -11,5 +11,7 @@ headless: true
 - [**Lectures**]({{< relref "content/docs/Lecture.md">}})  
 - [**Photos**]({{< relref "content/docs/Photos.md">}})  
 - **Proceedings List-Up**
-  - [2023 Conferences]({{< relref "content/docs/Journals & Conferences/Conferences.md">}})
-  - [2023 Journals]({{< relref "content/docs/Journals & Conferences/Journals.md">}})
+  <!-- - [Computer Science Conferences]({{< relref "content/docs/Journals & Conferences/Conferences.md">}}) -->
+  <!-- - [Computer Science Journals]({{< relref "content/docs/Journals & Conferences/Journals.md">}}) -->
+  - [Computer Science Conferences](https://research.com/conference-rankings/computer-science)
+  - [Computer Science Journals](https://research.com/journals-rankings/computer-science)
