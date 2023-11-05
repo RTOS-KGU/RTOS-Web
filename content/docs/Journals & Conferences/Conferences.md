@@ -1,29 +1,29 @@
 ---
 weight: 7
-title: "Conferences"
+title: "Best Computer Science Conferences"
 ---
 
-# Conferences
+# Best Computer Science Conferences
 ---
 <br>
 
 {{< columns >}}
-> ## [26th International Conference on Medical Image Computing and Computer Assisted Intervention](https://conferences.miccai.org/2023/en/default.asp)
+> ## [Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/)
 > **Area:** Computer Vision, Medical
 
-> ## [International Symposium on Biomedical Imaging](https://biomedicalimaging.org/2022/)
+> ## [Neural Information Processing Systems](https://nips.cc/)
 > **Area:** Computer Vision, Medical
 
-> ## [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging)
+> ## [International Conference on Computer Vision](https://waset.org/computational-vision-conference-in-february-2024-in-lisbon)
 > **Area:** Computer Vision, Medical
 
-> ## [International Conference on Machine Learning in Medical Imaging](https://sites.google.com/view/mlmi2022/home)
+> ## [European Conference on Computer Vision](https://eccv2024.ecva.net/)
 > **Area:** Computer Vision, Medical
 
-> ## [IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/)
+> ## [International Conference on Machine Learning](https://icml.cc/)
 > **Area:** Computer Vision, Medical
 
-> ## [International Conference on Healthcare Informatics](https://ieeeichi.github.io/ICHI2023/)
+> ## [AAAI Conference on Artificial Intelligence](https://aaai.org/aaai-conference/)
 > **Area:** Computer Vision, Medical
 
 > ## [Information Processing in Medical Imaging](https://ipmi2023.org/en/)

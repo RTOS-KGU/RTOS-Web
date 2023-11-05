@@ -1,9 +1,9 @@
 ---
 weight: 7
-title: Journals
+title: "Best Computer Science Journals"
 ---
 
-# Journals
+# Best Computer Science Journals
 ---
 <br>
 
