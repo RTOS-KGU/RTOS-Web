@@ -8,7 +8,18 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
-- {{<modal-text text="2023.10.24. 2023 디지털병리 AI 해커톤 장려상 수상" id="41">}}
+- {{<modal-text text="2023.11.15. 2023년 공개SW 개발자대회 동상 수상" id="44">}}
+우리 연구실 학부연구생으로 구성된 LSTM팀(피선우, 노승하, 김정효)이 2023년 17회를 맞이하는 국내 최대 규모의 공개SW 개발자대회에서 동상을 수상했습니다. <br>
+<a href="https://www.oss-registration.kr/">2023년 공개SW 개발자대회</a>
+{{</modal-text>}}
+- {{<modal-text text="2023.11.13.  2024년 K-SW스퀘어 봄 프로그램 최종 선정" id="43">}}
+연구실 학부연구생인 김해연 학생이 IITP(정보통신기획평가원)에서 주최하는 2024년 K-SW스퀘어 봄 프로그램에 최종 선정되어 24년3월부터 24년6월까지  미국 퍼듀 대학에서 생활하게 되었습니다.<br>
+{{</modal-text>}}
+- {{<modal-text text="2023.11.08. 국방AI경진대회 본선 진출" id="42">}}
+우리 연구실 석사 연구생(노원준, 한동현)과 학부연구생(노승하, 김해연)이 국방AI 경진대회 일반인 부분 본선에 진출하였습니다.<br>예선 신청자 750명 중 본선 진출자 15개팀만 선정되어 2박3일동안 대회를 치루게 됩니다. <br>
+<a href="https://maicon.kr">국방AI 경진대회</a>
+{{</modal-text>}}
+- {{<modal-text text="2023.10.24. 2023년 디지털병리 AI 해커톤 장려상 수상" id="41">}}
 연구실 석사생으로 구성된 D&K팀(한동현, 문기렴, 노원준)이 가톨릭대학교 가톨릭중앙의료원 정보융합진흥원이 개최한 ‘2023년 디지털병리 AI 해커톤’에서 장려상을 수항하였습니다. 본선 진출 20개 팀중에서 1위 포항공대, 2위 (주)에이비스에 이어 서울대 의대와 공동으로 3위에 입상하였습니다. <br>
 <a href="https://www.medifonews.com/news/article.html?no=183704">관련 기사</a>
 {{</modal-text>}}
@@ -21,10 +32,10 @@ We are looking for talented and motivated students to join our lab, on the under
 - {{<modal-text text="2023.08.25. Scientific Reports 논문 게재" id="38">}}
 연구실 석사생인  문기렴 학생의 "A deep learning approach for fully automated measurements of lower extremity alignment on radiographic images" 논문이 Scientific Reports (Impact Factor: 4.6)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
 {{</modal-text>}}
-- {{<modal-text text="2023.08.21. 2023 K-SW스퀘어 겨울방학 프로그램 최종 선정" id="37">}}
+- {{<modal-text text="2023.08.21. 2023년 K-SW스퀘어 겨울방학 프로그램 최종 선정" id="37">}}
 연구실 학부연구생인 피선우 학생이 IITP(정보통신기획평가원)에서 주최하는 2023년 K-SW스퀘어 겨울방학 프로그램에 최종 선정되어 겨울방학 동안 미국 퍼듀 대학에서 생활하게 되었습니다.
 {{</modal-text>}}
-- {{<modal-text text="2023.06.19. 2023 AI컴퓨터공학부 산학협력 프로젝트 경진대회 대상 수상" id="36">}}
+- {{<modal-text text="2023.06.19. 2023년 AI컴퓨터공학부 산학협력 프로젝트 경진대회 대상 수상" id="36">}}
 연구실 학부연구생인 피선우, 노승하, 김정효 학생이 "딥러닝 기반 실시간 포즈 추청 기술을 활용한 육아 수첩 애플리케이션" 주제로 2023 AI컴퓨터공학부 산학협력 프로젝트 경진대회 4학년 심화캡스톤디자인 부분에서 대상을 수상하였습니다.
 {{</modal-text>}}
 - {{<modal-text text="2023.06.12. ETRI 하계연구연수생 최종 선정" id="35">}}
