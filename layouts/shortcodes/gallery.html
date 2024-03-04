@@ -1,0 +1,31 @@
+<div class="gallery">
+{{ range .Page.Params.images }}
+    <div class="thumbnail">
+        <a href="{{ .src }}" target="_blank">
+            <img src="{{ .src }}" alt="{{ .alt }}" />
+            <div class="caption">{{ .caption }}</div>
+        </a>
+    </div>
+{{ end }}
+</div>
+
+<style>
+    .gallery {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+    }
+    
+    .thumbnail {
+        flex-basis: 30%;
+        margin: 1%;
+    }
+    
+    .thumbnail img {
+        width: 100%;
+    }
+    .caption {
+    text-align: center;
+    }
+</style>

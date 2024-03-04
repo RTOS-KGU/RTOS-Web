@@ -8,6 +8,9 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2023.12.19. Scientific Reports 논문 게재" id="45">}}
+연구실 학부 연구생인  피선우 학생의 "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees" 논문이 Scientific Reports (Impact Factor: 4.6)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
+{{</modal-text>}}
 - {{<modal-text text="2023.11.15. 2023년 공개SW 개발자대회 동상 수상" id="44">}}
 우리 연구실 학부연구생으로 구성된 LSTM팀(피선우, 노승하, 김정효)이 2023년 17회를 맞이하는 국내 최대 규모의 공개SW 개발자대회에서 동상을 수상했습니다. <br>
 <a href="https://www.oss-registration.kr/">2023년 공개SW 개발자대회</a>

@@ -20,48 +20,49 @@ title: "Members"
 ---
 
 {{< columns >}}
-> ## Rabeea Fatma Khan  
-> **Office:** RM #8514   
-**Email:** rabeea AT healthhub.kr
-<--->
 > ## Ki-Ryum Moon
 > **Office:** RM #8514  
 **Email:** jij7401 AT naver.com  
 [**Github**](https://github.com/jij7401)   
-{{</ columns >}}
-
-{{< columns >}}
+<--->
 > ## Dong-Hyun Han   
 > **Office:** RM #8514  
 **Email:** mpolio2 AT kyonggi.ac.kr   
 [**Github**](https://github.com/DongHyun99)  
-<--->
+{{</ columns >}}
+
+{{< columns >}}
 > ## Won-Jun Noh  
 > **Office:** RM # 8514  
 **Email:** knoh9730 AT gmail.com  
 [**Github**](https://github.com/reflelia) 
+<--->
+> ## Sun-Woo Pi
+> **Office:** RM #8514  
+**Email:** ppssww1202 AT naver.com   
+[**Github**](https://github.com/sunwxxpi)
+{{< /columns >}}
+
+{{< columns >}}
+> ## Seung-Ha Noh  
+> **Office:** RM # 8514  
+**Email:** noseungha164 AT gmail.com  
+[**Github**](https://github.com/seungha164)  
+<--->
+> ## Jeong-Hyo Kim  
+> **Office:** RM # 8514  
+**Email:** longkjh123 AT gmail.com  
+[**Github**](https://github.com/jjanghyo)
 {{< /columns >}}
 
 ### <span style="color:#197ed6">Undergraduate Students</span>  
 ---
 
-{{< columns >}}  
-> ## Sun-Woo Pi
-> **Office:** RM #8514  
-**Email:** ppssww1202 AT naver.com   
-[**Github**](https://github.com/SunWoo98Pi)
-<--->   
-> ## Seung-Ha Noh  
-> **Office:** RM # 8514  
-**Email:** noseungha164 AT gmail.com  
-[**Github**](https://github.com/seungha164)  
-{{< /columns >}}  
-
 {{< columns >}}
-> ## Jeong-Hyo Kim  
+> ## Myeong-Gyun Jang 
 > **Office:** RM # 8514  
-**Email:** longkjh123 AT gmail.com  
-[**Github**](https://github.com/jjanghyo)
+**Email:** jmk000725 AT kyonggi.ac.kr  
+[**Github**](https://github.com/Mang9oo)
 <--->   
 > ## Hae-Yeon Kim  
 > **Office:** RM # 8514  
@@ -69,15 +70,9 @@ title: "Members"
 [**Github**](https://github.com/sunkite3-3)
 {{< /columns >}}
 
-{{< columns >}}
-> ## Myeong-Gyun Jang 
-> **Office:** RM # 8514  
-**Email:** jmk000725 AT kyonggi.ac.kr  
-[**Github**](https://github.com/Mang9oo)
-{{< /columns >}}
-
 ## Alumni  
 
+- Rabeea Fatma Khan (M.S., 2024)
 - Minki Kim (M.S., 2022) - 알피니언메디칼시스템(Alpinion)  
 - Sunwon Kang (M.S., 2022) - 비주얼신(Visualsyn)
 - Ye-Hoon Jang (M.S., 2021) - 아토리서치(ATTO Research)
