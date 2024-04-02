@@ -24,7 +24,6 @@ title: "Research"
 > 영상기반 음영지역 보정 시제품 제작 및 시험 (ETRI, 2019)</br>
 > 텍스처 품질개선을 위한 3D모델 기반 학습데이터 구축 및 Feasibility 테스트 (ETRI, 2018)</br>
 
-
 ---
 
 # Network Inteligence

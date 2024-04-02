@@ -2,13 +2,33 @@
 weight: 4
 title: "Photos"
 images:
+  - src: '/img/portfolio/58.jpg'
+    alt: '2024.03.14 회식'
+    caption: '2024.03.14 회식'
+
+  - src: '/img/portfolio/57.jpg'
+    alt: 'RTOS MT'
+    caption: 'RTOS MT'
+
+  - src: '/img/portfolio/56.jpg'
+    alt: 'RTOS MT'
+    caption: 'RTOS MT'
+
+  - src: '/img/portfolio/55.jpg'
+    alt: '피선우 in Purdue Univ.'
+    caption: '피선우 in Purdue Univ.'
+
+  - src: '/img/portfolio/54.jpg'
+    alt: '피선우 in Purdue Univ.'
+    caption: '피선우 in Purdue Univ.'
+
   - src: '/img/portfolio/53.jpg'
-    alt: '🎉RTOS 노승하, 피선우 학부 졸업🎉'
-    caption: '🎉RTOS 노승하, 피선우 학부 졸업🎉'
+    alt: '🎉노승하, 피선우 김정효 학부 졸업🎉'
+    caption: '🎉노승하, 피선우, 김정효 학부 졸업🎉'
 
   - src: '/img/portfolio/52.jpg'
-    alt: '🎉RTOS 노승하, 피선우 학부 졸업🎉'
-    caption: '🎉RTOS 노승하, 피선우 학부 졸업🎉'
+    alt: '🎉노승하, 피선우, 김정효 학부 졸업🎉'
+    caption: '🎉노승하, 피선우, 김정효 학부 졸업🎉'
 
   - src: '/img/portfolio/51.jpg'
     alt: '❤️이병대 교수님😯 생신❤️'

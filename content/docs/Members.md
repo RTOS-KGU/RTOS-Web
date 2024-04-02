@@ -7,67 +7,68 @@ title: "Members"
 ---
 <br><br>
 
-### <span style="color:#197ed6">Professor</span>  
+### <span style="color:#197ed6">Professor</span>
 ---  
 {{< columns >}}
-> ## Byong-Dai Lee  
+> ## Byong-Dai Lee
 > **Office:** RM #8317  
 **Email:** blee AT kyonggi.ac.kr  
-**Phone:** 031-249-9676  
+**Phone:** 031-249-9676
 {{</ columns >}}
 
-### <span style="color:#197ed6">Master Students</span>  
+### <span style="color:#197ed6">Master Students</span>
 ---
 
 {{< columns >}}
 > ## Ki-Ryum Moon
 > **Office:** RM #8514  
 **Email:** jij7401 AT naver.com  
-[**Github**](https://github.com/jij7401)   
+[**Github**](https://github.com/jij7401)
 <--->
-> ## Dong-Hyun Han   
+> ## Dong-Hyun Han
 > **Office:** RM #8514  
-**Email:** mpolio2 AT kyonggi.ac.kr   
-[**Github**](https://github.com/DongHyun99)  
+**Email:** mpolio2 AT kyonggi.ac.kr  
+[**Github**](https://github.com/DongHyun99)
 {{</ columns >}}
 
 {{< columns >}}
-> ## Won-Jun Noh  
-> **Office:** RM # 8514  
+> ## Won-Jun Noh
+> **Office:** RM #8514  
 **Email:** knoh9730 AT gmail.com  
-[**Github**](https://github.com/reflelia) 
+[**Github**](https://github.com/reflelia)
 <--->
 > ## Sun-Woo Pi
 > **Office:** RM #8514  
-**Email:** ppssww1202 AT naver.com   
+**Email:** ppssww1202 AT naver.com  
 [**Github**](https://github.com/sunwxxpi)
 {{< /columns >}}
 
 {{< columns >}}
-> ## Seung-Ha Noh  
-> **Office:** RM # 8514  
+> ## Seung-Ha Noh
+> **Office:** RM #8514  
 **Email:** noseungha164 AT gmail.com  
-[**Github**](https://github.com/seungha164)  
-<--->
-> ## Jeong-Hyo Kim  
-> **Office:** RM # 8514  
-**Email:** longkjh123 AT gmail.com  
-[**Github**](https://github.com/jjanghyo)
+[**Github**](https://github.com/seungha164)
 {{< /columns >}}
 
-### <span style="color:#197ed6">Undergraduate Students</span>  
+### <span style="color:#197ed6">Undergraduate Students</span>
 ---
 
 {{< columns >}}
-> ## Myeong-Gyun Jang 
-> **Office:** RM # 8514  
+> ## Myeong-Gyun Jang
+> **Office:** RM #8514  
 **Email:** jmk000725 AT kyonggi.ac.kr  
 [**Github**](https://github.com/Mang9oo)
 <--->   
-> ## Hae-Yeon Kim  
-> **Office:** RM # 8514  
+> ## Hae-Yeon Kim
+> **Office:** RM #8514  
 **Email:** hyhy020301 AT gmail.com  
 [**Github**](https://github.com/sunkite3-3)
+{{< /columns >}}
+{{< columns >}}
+> ## Myeong-Soo Park
+> **Office:** RM #8514  
+**Email:** sdj1145 AT naver.com  
+[**Github**](https://github.com/appsam)
 {{< /columns >}}
 
 ## Alumni  
@@ -85,8 +86,9 @@ title: "Members"
 
 ## Undergraduate Research Interns  
 
-- Dong-Jin Kim (B.S., 2021) -  고려대학교 석사과정
+- Jeong-Hyo Kim (B.S., 2024) - Bear Robotics
+- Dong-Jin Kim (B.S., 2021) - 고려대학교 석사과정
 - Sang-Hyun Kim (B.S., 2021) - 포지큐브(POSICUBE)
 - Minsu Park (B.S., 2018) - NHN Entertainment
-- Sangmin Seo (B.S., 2014) - 카카오페이 (Kakao Pay)
-- Youn-Jeong Seo (B.S., 2014) - 현대 오토에버(HYUNDAI AutoEver)  
+- Sangmin Seo (B.S., 2014) - 카카오페이(Kakao Pay)
+- Youn-Jeong Seo (B.S., 2014) - 현대 오토에버(HYUNDAI AutoEver)

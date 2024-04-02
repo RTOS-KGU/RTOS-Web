@@ -8,6 +8,11 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2024.03.05. 셀렉트스타(주) 인턴쉽" id="46">}}
+연구실 석사연구생인 노원준 학생이 2024년3월부터 셀렉트스타(주)에서 인턴을 시작하게 되었습니다. 셀렉트스타(주)는 인공지능 학습용 데이터 수집하고 가공하는 국내 대표적인 AI 기업 중 하나입니다. <br>
+<a href="https://selectstar.ai/ko/"> 셀렉트스타(주)</a>
+ 
+{{</modal-text>}}
 - {{<modal-text text="2023.12.19. Scientific Reports 논문 게재" id="45">}}
 연구실 학부 연구생인  피선우 학생의 "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees" 논문이 Scientific Reports (Impact Factor: 4.6)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
 {{</modal-text>}}
