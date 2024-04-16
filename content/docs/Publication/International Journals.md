@@ -8,11 +8,11 @@ title: "International Journals"
 <br><br>
 - "TransSkip: Leveraging Transformer-based Attention Mechanisms for Multi-Scale Feature Fusion," under review.
 - "Enhancing Flatfoot Diagnosis with Deep Learning-Based Automated Angle Measurement on Weight-Bearing Lateral Radiographs: Statistical Evaluation of the Reliability and Efficiency," under review.
-- "Automated Assessment of Pelvic Radiographs Using Deep Learning: A Reliable Diagnostic Tool for Pelvic Malalignment," under review.
 - "Shadow Feature Refinement Network (SFR-Net): Progressive Feature Refinement based on Knowledge Distillation for Effective Shadow Removal," under review.
 ---
-- Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee, "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees," <i>Scientific Reports</i>, 13(22887), 2023. <img src="../new.png" width="40" height="10">
-- Rabeea Fatma Khan, Byoung-Dai Lee, and Mu Sook Lee, "Transformers in Medical Image Segmentation: a Narrative Review," <i>Quantitative Imaging in Medicine and Surgery</i>, 13(12), 2023. <img src="../new.png" width="40" height="10">
+- Ki-Ryum Moon, Shi Sub Byon, Sung Hyun Kim, and Byoung-Dai Lee, "Automated Assessment of Pelvic Radiographs Using Deep Learning: A Reliable Diagnostic Tool for Pelvic Malalignment," to appear in <i>Heliyon</i>, 2024. <img src="../new.png" width="40" height="10">
+- Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee, "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees," <i>Scientific Reports</i>, 13(22887), 2023. 
+- Rabeea Fatma Khan, Byoung-Dai Lee, and Mu Sook Lee, "Transformers in Medical Image Segmentation: a Narrative Review," <i>Quantitative Imaging in Medicine and Surgery</i>, 13(12), 2023. 
 - Ki-Ryum Moon, Byoung-Dai Lee, and Mu Sook Lee, "A Deep Learning Approach for Fully Automated Measurements of Lower Extremity Alignment on Radiographic Images," 13(14692),  <i>Scientific Reports</i>, 2023. 
 - Minki Kim, Ki-Ryum Moon, and Byoung-Dai Lee, "Unsupervised Anomaly Detection for Posteroanterior Chest X-Rays Using Multiresolution Patch-Based Self-Supervised Learning," <i>Scientific Reports</i>, 13(3415), 2023.
 - Yehoon Jang, Namgi Kim, and Byoung-Dai Lee, "Flow Classification using Distributions of Latent Features in Software Defined Networks: An Experimental Evaluation," <i>Engineering Applications in Artificial Intelligence</i>, 119, 2023.

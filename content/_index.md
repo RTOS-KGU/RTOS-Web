@@ -8,10 +8,16 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
-- {{<modal-text text="2024.03.05. 셀렉트스타(주) 인턴쉽" id="46">}}
-연구실 석사연구생인 노원준 학생이 2024년3월부터 셀렉트스타(주)에서 인턴을 시작하게 되었습니다. 셀렉트스타(주)는 인공지능 학습용 데이터 수집하고 가공하는 국내 대표적인 AI 기업 중 하나입니다. <br>
-<a href="https://selectstar.ai/ko/"> 셀렉트스타(주)</a>
- 
+- {{<modal-text text="2024.04.15. Heliyon 논문 게재" id="48">}}
+연구실 석사 연구생인  문기렴 학생의 "Automated Assessment of Pelvic Radiographs Using Deep Learning: A Reliable Diagnostic Tool for Pelvic Malalignment" 논문이 Heliyon (Impact Factor: 4.0)에 최종 게재 확정되었습니다. Heliyon는 Cell 자매지입니다.
+{{</modal-text>}}
+- {{<modal-text text="2024.04.09. CVPR Workshop 논문게재 " id="47">}}
+우리 연구실 석사 연구생인 노승하 학생의 "\(H^3\)Net: Irregular Posture Detection by Understanding Human Character and Core Structures" 논문이 CVPR Workshop에 최종 게재 확정되었습니다. 본 논문은 한국전자통신연구원(ETRI)와 공동 수행된 연구 결과입니다. <br>
+<a href="https://sites.google.com/view/ieeecvf-cvpr2024-precognition">The 6th IEEE/CVF CVPR Precognition Workshop</a>
+{{</modal-text>}}
+- {{<modal-text text="2024.04.03. 국내학술발표대회 논문게재 " id="46">}}
+문기렴(석사연구생), "발달성 고관절 이형성증 진단을 위한 딥러닝 기반 절구지수 자동 측정," 2024 한국차세대컴퓨팅학회 춘계학술대회<br><br>
+장명균(학부연구생), "딥러닝 기반 계층적 모델을 활용한 딸기 병충해 자동 분류 시스템," 2024 한국인터넷정보학회 춘계학술발표대회<br>
 {{</modal-text>}}
 - {{<modal-text text="2023.12.19. Scientific Reports 논문 게재" id="45">}}
 연구실 학부 연구생인  피선우 학생의 "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees" 논문이 Scientific Reports (Impact Factor: 4.6)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
