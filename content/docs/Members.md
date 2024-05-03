@@ -73,7 +73,7 @@ title: "Members"
 
 ## Alumni  
 
-- Rabeea Fatma Khan (M.S., 2024)
+- Rabeea Fatma Khan (M.S., 2024) - National Guard Hospital, Riyadh, Saudi Arabia
 - Minki Kim (M.S., 2022) - 알피니언메디칼시스템(Alpinion)  
 - Sunwon Kang (M.S., 2022) - 비주얼신(Visualsyn)
 - Ye-Hoon Jang (M.S., 2021) - 아토리서치(ATTO Research)

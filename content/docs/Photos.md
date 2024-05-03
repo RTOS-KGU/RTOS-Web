@@ -2,6 +2,10 @@
 weight: 4
 title: "Photos"
 images:
+  - src: '/img/portfolio/61.jpg'
+    alt: '2024.05.03 회식'
+    caption: '2024.05.03 회식'
+
   - src: '/img/portfolio/58.jpg'
     alt: '2024.03.14 회식'
     caption: '2024.03.14 회식'
@@ -14,14 +18,6 @@ images:
     alt: 'RTOS MT'
     caption: 'RTOS MT'
 
-  - src: '/img/portfolio/55.jpg'
-    alt: '피선우 in Purdue Univ.'
-    caption: '피선우 in Purdue Univ.'
-
-  - src: '/img/portfolio/54.jpg'
-    alt: '피선우 in Purdue Univ.'
-    caption: '피선우 in Purdue Univ.'
-
   - src: '/img/portfolio/53.jpg'
     alt: '🎉노승하, 피선우 김정효 학부 졸업🎉'
     caption: '🎉노승하, 피선우, 김정효 학부 졸업🎉'
@@ -30,6 +26,18 @@ images:
     alt: '🎉노승하, 피선우, 김정효 학부 졸업🎉'
     caption: '🎉노승하, 피선우, 김정효 학부 졸업🎉'
 
+  - src: '/img/portfolio/55.jpg'
+    alt: '피선우 in Purdue Univ.'
+    caption: '피선우 in Purdue Univ.'
+
+  - src: '/img/portfolio/54.jpg'
+    alt: '피선우 in Purdue Univ.'
+    caption: '피선우 in Purdue Univ.'
+
+  - src: '/img/portfolio/60.jpg'
+    alt: '국방AI경진대회 본선 in KT인재개발원'
+    caption: '국방AI경진대회 본선 in KT인재개발원'
+
   - src: '/img/portfolio/51.jpg'
     alt: '❤️이병대 교수님😯 생신❤️'
     caption: '❤️이병대 교수님😯 생신❤️'
@@ -37,6 +45,10 @@ images:
   - src: '/img/portfolio/50.jpg'
     alt: 'AI 전문가 초빙 강의 (SELECTSTAR 이찬수)'
     caption: 'AI 전문가 초빙 강의 (SELECTSTAR 이찬수)'
+
+  - src: '/img/portfolio/59.jpg'
+    alt: '노승하 in ETRI'
+    caption: '노승하 in ETRI'
 
   - src: '/img/portfolio/49.jpg'
     alt: '2023 공개SW 개발자대회 (동상)'
