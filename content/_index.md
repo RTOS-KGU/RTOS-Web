@@ -8,6 +8,15 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2024.05.17. 2024학년 학부연구생 연구실 참여" id="53">}}
+이번 학기에 최용진(AI 컴퓨터공학부4년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다
+{{</modal-text>}}
+- {{<modal-text text="2024.05.17. 석사학생 졸업논문 제안발표" id="52">}}
+우리 연구실 석사 3학기생인 노원준, 문기렴, 한동현 학생이 석사논문 제안발표를 무사히 끝맞쳤습니다
+{{</modal-text>}}
+- {{<modal-text text="2024.05.06. ETRI 위촉연구원 최종 선정 " id="51">}}
+우리 연구실 석사 연구생인 한동현 학생이 ETRI 위촉연구원으로 최종 선정되었습니다. 한동현 학생은 올해 12월까지 ETRI 시각지능연구실에서 딥러닝 기반 영상분석 프로그램 연구 및 개발을 수행할 예정입니다.
+{{</modal-text>}}
 - {{<modal-text text="2024.04.25. 연구재단 공동연구(우수신진연구) 최종 선정 " id="50">}}
 우리 연구실과 계명대학교동산병원 영상의학과 연구팀과 공동으로 한국연구재단 우수신진연구에 최종 선정되었습니다. 본 연구는 대동맥판막 협착증의 조기 진단, 치료 계획 수립 및 예후 예측의 각 단계에서 활용될 수 있는 인공지능 기반의 진단보조 시스템 개발 및 검증을 최종 목표로 하고 있습니다.
 {{</modal-text>}}

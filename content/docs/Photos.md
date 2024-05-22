@@ -2,6 +2,26 @@
 weight: 4
 title: "Photos"
 images:
+  - src: '/img/portfolio/66.jpg'
+    alt: '2024.05.17 회식'
+    caption: '2024.05.17 회식'
+
+  - src: '/img/portfolio/65.jpg'
+    alt: '🎉교술더사🎉'
+    caption: '🎉교술더사🎉'
+
+  - src: '/img/portfolio/64.jpg'
+    alt: '2024.05.17 제안 발표(노원준)'
+    caption: '2024.05.017 제안 발표(노원준)'
+
+  - src: '/img/portfolio/63.jpg'
+    alt: '2024.05.17 제안 발표(한동현)'
+    caption: '2024.05.017 제안 발표(한동현)'
+
+  - src: '/img/portfolio/62.jpg'
+    alt: '2024.05.17 제안 발표(문기렴)'
+    caption: '2024.05.017 제안 발표(문기렴)'
+
   - src: '/img/portfolio/61.jpg'
     alt: '2024.05.03 회식'
     caption: '2024.05.03 회식'
