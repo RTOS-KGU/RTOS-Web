@@ -8,31 +8,34 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
-- {{<modal-text text="2024.05.17. 2024학년 학부연구생 연구실 참여" id="53">}}
-이번 학기에 최용진(AI 컴퓨터공학부4년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다
+- {{<modal-text text="2024.05.17. 2024학년 학부연구생 연구실 참여" id="54">}}
+이번 학기에 최용진(AI 컴퓨터공학부4년), 권지윤(AI 컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
 {{</modal-text>}}
-- {{<modal-text text="2024.05.17. 석사학생 졸업논문 제안발표" id="52">}}
-우리 연구실 석사 3학기생인 노원준, 문기렴, 한동현 학생이 석사논문 제안발표를 무사히 끝맞쳤습니다
+- {{<modal-text text="2024.05.17. 석사학생 졸업논문 제안발표" id="53">}}
+우리 연구실 석사 3학기생인 노원준, 문기렴, 한동현 학생이 석사논문 제안발표를 무사히 끝맞쳤습니다.
 {{</modal-text>}}
-- {{<modal-text text="2024.05.06. ETRI 위촉연구원 최종 선정 " id="51">}}
+- {{<modal-text text="2024.05.06. ETRI 위촉연구원 최종 선정 " id="52">}}
 우리 연구실 석사 연구생인 한동현 학생이 ETRI 위촉연구원으로 최종 선정되었습니다. 한동현 학생은 올해 12월까지 ETRI 시각지능연구실에서 딥러닝 기반 영상분석 프로그램 연구 및 개발을 수행할 예정입니다.
 {{</modal-text>}}
-- {{<modal-text text="2024.04.25. 연구재단 공동연구(우수신진연구) 최종 선정 " id="50">}}
+- {{<modal-text text="2024.04.25. 연구재단 공동연구(우수신진연구) 최종 선정" id="51">}}
 우리 연구실과 계명대학교동산병원 영상의학과 연구팀과 공동으로 한국연구재단 우수신진연구에 최종 선정되었습니다. 본 연구는 대동맥판막 협착증의 조기 진단, 치료 계획 수립 및 예후 예측의 각 단계에서 활용될 수 있는 인공지능 기반의 진단보조 시스템 개발 및 검증을 최종 목표로 하고 있습니다.
 {{</modal-text>}}
-- {{<modal-text text="2024.04.16. 석사 졸업생 National Guard Hospital 취업" id="49">}}
+- {{<modal-text text="2024.04.16. 석사 졸업생 National Guard Hospital 취업" id="50">}}
 연구실 석사 졸업생인 Rabeea Fatma Khan이 사우디아라비아의 National Guard Hospital의 AI 연구팀에서 새로운 career를 시작하게 되었습니다.
 {{</modal-text>}}
-- {{<modal-text text="2024.04.15. Heliyon 논문 게재" id="48">}}
+- {{<modal-text text="2024.04.15. Heliyon 논문 게재" id="49">}}
 연구실 석사 연구생인  문기렴 학생의 "Automated Assessment of Pelvic Radiographs Using Deep Learning: A Reliable Diagnostic Tool for Pelvic Malalignment" 논문이 Heliyon (Impact Factor: 4.0)에 최종 게재 확정되었습니다. Heliyon는 Cell 자매지입니다.
 {{</modal-text>}}
-- {{<modal-text text="2024.04.09. CVPR Workshop 논문게재 " id="47">}}
+- {{<modal-text text="2024.04.09. CVPR Workshop 논문게재" id="48">}}
 우리 연구실 석사 연구생인 노승하 학생의 "\(H^3\)Net: Irregular Posture Detection by Understanding Human Character and Core Structures" 논문이 CVPR Workshop에 최종 게재 확정되었습니다. 본 논문은 한국전자통신연구원(ETRI)와 공동 수행된 연구 결과입니다. <br>
 <a href="https://sites.google.com/view/ieeecvf-cvpr2024-precognition">The 6th IEEE/CVF CVPR Precognition Workshop</a>
 {{</modal-text>}}
-- {{<modal-text text="2024.04.03. 국내학술발표대회 논문게재 " id="46">}}
+- {{<modal-text text="2024.04.03. 국내학술발표대회 논문게재" id="47">}}
 문기렴(석사연구생), "발달성 고관절 이형성증 진단을 위한 딥러닝 기반 절구지수 자동 측정," 2024 한국차세대컴퓨팅학회 춘계학술대회<br><br>
 장명균(학부연구생), "딥러닝 기반 계층적 모델을 활용한 딸기 병충해 자동 분류 시스템," 2024 한국인터넷정보학회 춘계학술발표대회<br>
+{{</modal-text>}}
+- {{<modal-text text="2024.03.07. 2024학년 학부연구생 연구실 참여" id="46">}}
+이번 학기에 박명수(AI 컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
 {{</modal-text>}}
 - {{<modal-text text="2023.12.19. Scientific Reports 논문 게재" id="45">}}
 연구실 학부 연구생인  피선우 학생의 "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees" 논문이 Scientific Reports (Impact Factor: 4.6)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
@@ -56,7 +59,7 @@ We are looking for talented and motivated students to join our lab, on the under
 연구실 석사생인 Rabeea Fatma Khan 학생의 "Transformers in medical image segmentation: a narrative review" 논문이 Quantitative Imaging in Medicine and Surgery (Impact Factor: 2.8)에 최종 게재 확정되었습니다.
 {{</modal-text>}}
 - {{<modal-text text="2023.09.07. 2023학년 학부연구생 연구실 참여" id="39">}}
-이번 학기에 김해연(AI 컴퓨터공학부3년), 장명균(AI 컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다
+이번 학기에 김해연(AI 컴퓨터공학부3년), 장명균(AI 컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
 {{</modal-text>}}
 - {{<modal-text text="2023.08.25. Scientific Reports 논문 게재" id="38">}}
 연구실 석사생인  문기렴 학생의 "A deep learning approach for fully automated measurements of lower extremity alignment on radiographic images" 논문이 Scientific Reports (Impact Factor: 4.6)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.

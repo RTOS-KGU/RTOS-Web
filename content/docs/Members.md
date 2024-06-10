@@ -54,17 +54,6 @@ title: "Members"
 ---
 
 {{< columns >}}
-> ## Myeong-Gyun Jang
-> **Office:** RM #8514  
-**Email:** jmk000725 AT kyonggi.ac.kr  
-[**Github**](https://github.com/Mang9oo)
-<--->   
-> ## Hae-Yeon Kim
-> **Office:** RM #8514  
-**Email:** hyhy020301 AT gmail.com  
-[**Github**](https://github.com/sunkite3-3)
-{{< /columns >}}
-{{< columns >}}
 > ## Myeong-Soo Park
 > **Office:** RM #8514  
 **Email:** sdj1145 AT naver.com  
@@ -74,6 +63,12 @@ title: "Members"
 > **Office:** RM #8514  
 **Email:** dydwls5935 AT kyonggi.ac.kr  
 [**Github**](https://github.com/YJYJ1)
+{{< /columns >}}
+{{< columns >}}
+> ## Ji-Yoon Kweon
+> **Office:** RM #8514  
+**Email:** jiyoon@kyonggi.ac.kr  
+[**Github**](https://github.com/jiyoxn)
 {{< /columns >}}
 
 ## Alumni  
