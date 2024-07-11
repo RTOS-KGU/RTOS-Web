@@ -8,6 +8,10 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2024.07.11. 2024년 인공지능 기술사업화 과제 선정" id="55">}}
+우리 연구실과 셀렉트스타(주)와 공동으로 서울경제진흥원 2024년 인공지능 기술사업화 지원사업에 선정되었습니다. 두 기관은 유아 발달 장애 지원용 언어 및 인지 발달 평가를 위한 생성형 AI 연구를 수행합니다.<br><br>
+<a href="https://selectstar.ai/">셀렉트스타(주)</a>
+{{</modal-text>}}
 - {{<modal-text text="2024.05.17. 2024학년 학부연구생 연구실 참여" id="54">}}
 이번 학기에 최용진(AI 컴퓨터공학부4년), 권지윤(AI 컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
 {{</modal-text>}}

@@ -2,6 +2,18 @@
 weight: 4
 title: "Photos"
 images:
+  - src: '/img/portfolio/69.jpg'
+    alt: '2024.07.27 대학원생 회식'
+    caption: '2024.07.27 대학원생 회식'
+
+  - src: '/img/portfolio/68.jpg'
+    alt: '노승하 in CVPRW Conference'
+    caption: '노승하 in CVPRW Conference'
+
+  - src: '/img/portfolio/67.jpg'
+    alt: '노승하 in CVPRW Conference'
+    caption: '노승하 in CVPRW Conference'
+
   - src: '/img/portfolio/66.jpg'
     alt: '2024.05.17 회식'
     caption: '2024.05.17 회식'

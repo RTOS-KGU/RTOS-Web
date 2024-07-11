@@ -6,8 +6,12 @@ title: "International Journals"
 # International Journals
 ---
 <br><br>
+- "Enhancing Flatfoot Diagnosis with Deep Learning-Based Automated Angle Measurement on Weight-Bearing Lateral Radiographs: Statistical Evaluation of the Reliability and Efficiency," under revision.
+- "AI-Assisted Semi-Automatic Report Generation of Multimodal Ultrasound for Breast Cancers," under revision.
+---
+- "SMS-Net: Bridging the gap between high accuracy and low computational cost in pose estimation," under review.
+- "Can deep learning-based artificial intelligence reliably automate radiographic parameters in hip X-ray images of children?," under review.
 - "TransSkip: Leveraging Transformer-based Attention Mechanisms for Multi-Scale Feature Fusion," under review.
-- "Enhancing Flatfoot Diagnosis with Deep Learning-Based Automated Angle Measurement on Weight-Bearing Lateral Radiographs: Statistical Evaluation of the Reliability and Efficiency," under review.
 - "Shadow Feature Refinement Network (SFR-Net): Progressive Feature Refinement based on Knowledge Distillation for Effective Shadow Removal," under review.
 ---
 - Ki-Ryum Moon, Shi Sub Byon, Sung Hyun Kim, and Byoung-Dai Lee, "Automated Assessment of Pelvic Radiographs Using Deep Learning: A Reliable Diagnostic Tool for Pelvic Malalignment," <i>Heliyon</i>, 10(8), 2024. <img src="../new.png" width="40" height="10">
