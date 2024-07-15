@@ -8,8 +8,12 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2024.07.11. 2024 스마일게이트 AI서비스 위클리톤 본선 진출" id="56">}}
+우리 연구실 석사연구생으로 구성된 팀(노승하, 피선우, 한동현)이 2024 스마일게이트 AI 서비스 위클리톤 본선에 진출하였습니다.<br><br>
+<a href="https://futurelab.center/front/program/program-view?G_MENU_SEQ=&contSeq=754">2024 스마일게이트 AI서비스 위클리톤</a>
+{{</modal-text>}}
 - {{<modal-text text="2024.07.11. 2024년 인공지능 기술사업화 과제 선정" id="55">}}
-우리 연구실과 셀렉트스타(주)와 공동으로 서울경제진흥원 2024년 인공지능 기술사업화 지원사업에 선정되었습니다. 두 기관은 유아 발달 장애 지원용 언어 및 인지 발달 평가를 위한 생성형 AI 연구를 수행합니다.<br><br>
+우리 연구실과 셀렉트스타(주)와 공동으로 서울경제진흥원 2024년 인공지능 기술사업화 지원사업에 선정되었습니다. 본 사업을 통해 유아 발달 장애 지원용 언어 및 인지 발달 평가를 위한 생성형 AI 연구를 수행합니다.<br><br>
 <a href="https://selectstar.ai/">셀렉트스타(주)</a>
 {{</modal-text>}}
 - {{<modal-text text="2024.05.17. 2024학년 학부연구생 연구실 참여" id="54">}}
