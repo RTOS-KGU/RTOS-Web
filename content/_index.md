@@ -8,6 +8,11 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2024.07.17. 2024 RSNA 논문 최종 선정" id="57">}}
+우리 연구실 석사연구생인 문기렴 학생의 "RADIOLOGIC GROWTH CHART OF FEMORAL HEAD OSSIFICATION CENTER AND ACETABULAR INDEX IN NORMAL KOREAN CHILDREN USING DEEP LEARNING-BASED
+AUTOMATIC MEASUREMENT" 논문이 2024 RSNA에서 구두 논문으로 최종 선정되었습니다. RSNA는 전세계에서 영향력이 가장 높은 영상의학 분야 학회입니다.<br><br>
+<a href="https://www.rsna.org/annual-meeting">2024 RSNA</a>
+{{</modal-text>}}
 - {{<modal-text text="2024.07.11. 2024 스마일게이트 AI서비스 위클리톤 본선 진출" id="56">}}
 우리 연구실 석사연구생으로 구성된 팀(노승하, 피선우, 한동현)이 2024 스마일게이트 AI 서비스 위클리톤 본선에 진출하였습니다.<br><br>
 <a href="https://futurelab.center/front/program/program-view?G_MENU_SEQ=&contSeq=754">2024 스마일게이트 AI서비스 위클리톤</a>
