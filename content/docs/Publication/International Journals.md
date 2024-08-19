@@ -6,7 +6,6 @@ title: "International Journals"
 # International Journals
 ---
 <br><br>
-- "Enhancing Flatfoot Diagnosis with Deep Learning-Based Automated Angle Measurement on Weight-Bearing Lateral Radiographs: Statistical Evaluation of the Reliability and Efficiency," under revision.
 - "AI-Assisted Semi-Automatic Report Generation of Multimodal Ultrasound for Breast Cancers," under revision.
 ---
 - "SMS-Net: Bridging the gap between high accuracy and low computational cost in pose estimation," under review.
@@ -14,6 +13,7 @@ title: "International Journals"
 - "TransSkip: Leveraging Transformer-based Attention Mechanisms for Multi-Scale Feature Fusion," under review.
 - "Shadow Feature Refinement Network (SFR-Net): Progressive Feature Refinement based on Knowledge Distillation for Effective Shadow Removal," under review.
 ---
+- Won-Jun Noh, Mu Sook Lee, and Byoung-Dai Lee, "Deep learning-based automated angle measurement for flatfoot diagnosis in weight-bearing lateral radiographs," <i>Scientific Reports</i>, 14(18411), 2024.  <img src="../new.png" width="40" height="10">
 - Ki-Ryum Moon, Shi Sub Byon, Sung Hyun Kim, and Byoung-Dai Lee, "Automated Assessment of Pelvic Radiographs Using Deep Learning: A Reliable Diagnostic Tool for Pelvic Malalignment," <i>Heliyon</i>, 10(8), 2024. <img src="../new.png" width="40" height="10">
 - Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee, "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees," <i>Scientific Reports</i>, 13(22887), 2023. 
 - Rabeea Fatma Khan, Byoung-Dai Lee, and Mu Sook Lee, "Transformers in Medical Image Segmentation: a Narrative Review," <i>Quantitative Imaging in Medicine and Surgery</i>, 13(12), 2023. 

@@ -8,14 +8,17 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2024.08.06. Scientific Reports 논문 게재" id="58">}}
+연구실 석사 연구생인  노원준 학생의 "Deep-Learning-Based Automated Angle Measurement for Flatfoot Diagnosis in Weight-Bearing Lateral Radiographs" 논문이 Scientific Reports (Impact Factor: 3.8)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
+{{</modal-text>}}
 - {{<modal-text text="2024.07.17. 2024 RSNA 논문 최종 선정" id="57">}}
 우리 연구실 석사연구생인 문기렴 학생의 "RADIOLOGIC GROWTH CHART OF FEMORAL HEAD OSSIFICATION CENTER AND ACETABULAR INDEX IN NORMAL KOREAN CHILDREN USING DEEP LEARNING-BASED
 AUTOMATIC MEASUREMENT" 논문이 2024 RSNA에서 구두 논문으로 최종 선정되었습니다. RSNA는 전세계에서 영향력이 가장 높은 영상의학 분야 학회입니다.<br><br>
 <a href="https://www.rsna.org/annual-meeting">2024 RSNA</a>
 {{</modal-text>}}
-- {{<modal-text text="2024.07.11. 2024 스마일게이트 AI서비스 위클리톤 본선 진출" id="56">}}
+- {{<modal-text text="2024.07.11. 2024 스마일게이트 AI 서비스 위클리톤 본선 진출" id="56">}}
 우리 연구실 석사연구생으로 구성된 팀(노승하, 피선우, 한동현)이 2024 스마일게이트 AI 서비스 위클리톤 본선에 진출하였습니다.<br><br>
-<a href="https://futurelab.center/front/program/program-view?G_MENU_SEQ=&contSeq=754">2024 스마일게이트 AI서비스 위클리톤</a>
+<a href="https://futurelab.center/front/program/program-view?G_MENU_SEQ=&contSeq=754">2024 스마일게이트 AI 서비스 위클리톤</a>
 {{</modal-text>}}
 - {{<modal-text text="2024.07.11. 2024년 인공지능 기술사업화 과제 선정" id="55">}}
 우리 연구실과 셀렉트스타(주)와 공동으로 서울경제진흥원 2024년 인공지능 기술사업화 지원사업에 선정되었습니다. 본 사업을 통해 유아 발달 장애 지원용 언어 및 인지 발달 평가를 위한 생성형 AI 연구를 수행합니다.<br><br>
