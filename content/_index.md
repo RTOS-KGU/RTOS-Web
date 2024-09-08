@@ -8,6 +8,12 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2024.08.30. 연구실 연합 MT" id="60">}}
+"우리 연구실과 정보보호연구실, 비전 인공지능 연구실이 참여한 연합 MT를 제부도에서 1박 2일로 진행하였습니다. 교수님과 학/석/박사 연구생들 21명이 참여한 이번 MT에서는 각 연구실의 최근 연구 성과를 공유하고, 협업 가능성을 논의하는 뜻깊은 시간을 가졌습니다. 또한, 친목을 도모하는 다양한 팀 빌딩 활동과 자연 속에서의 리프레시 시간을 통해 연구에 대한 동기 부여와 공동체 의식을 강화할 수 있었습니다."
+{{</modal-text>}}
+- {{<modal-text text="2024.08.30. Bioengineering 논문 게재" id="59">}}
+"AI-Powered Synthesis of Structured Multimodal Breast Ultra-sound Reports Integrating Radiologist Annotations and Deep Learning Analysis" 논문이 Bioengineering (Impact Factor: 3.8)에 최종 게재 확정되었습니다. 해당 연구는 헬스허브(주), 고려대학교 안암병원 영상의학과 연구실과 공동수행하였습니다.
+{{</modal-text>}}
 - {{<modal-text text="2024.08.06. Scientific Reports 논문 게재" id="58">}}
 연구실 석사 연구생인  노원준 학생의 "Deep-Learning-Based Automated Angle Measurement for Flatfoot Diagnosis in Weight-Bearing Lateral Radiographs" 논문이 Scientific Reports (Impact Factor: 3.8)에 최종 게재 확정되었습니다. Scientific Reports는 Nature 자매지입니다.
 {{</modal-text>}}
@@ -174,7 +180,7 @@ AUTOMATIC MEASUREMENT" 논문이 2024 RSNA에서 구두 논문으로 최종 선�
 연구실 석사생인 장예훈 학생의 "SDN 환경에서 VAE 기반의 응용 서비스 플로우 자동 분류 기법" 논문이 2020 한국인터넷정보학회 추계학술발표대회에서 우수 논문상으로 선정되었습니다.
 {{</modal-text>}}
 - {{<modal-text text="2020.10.21. Korean Journal of Radiology 논문 게재" id="6">}}
-"BAA 리뷰 논문인 "Automated Bone Age Assessment using Artificial Intelligence; The Future of Bone Age Assessment" 논문이 Korean Journal of Radiology (Impact Factor: 3.179) 게재 예정입니다.
+BAA 리뷰 논문인 "Automated Bone Age Assessment using Artificial Intelligence; The Future of Bone Age Assessment" 논문이 Korean Journal of Radiology (Impact Factor: 3.179) 게재 예정입니다.
 {{</modal-text>}}
 - {{<modal-text text="2020.09.01. Imaging Science in Dentistry 논문 게재" id="5">}}
 우리 연구실에서 개발한 딥러닝 기반 BAA 시스템의 임상 실험 결과를 바탕으로 서울대 치대 연구팀과 공동으로 작성한 논문인 "Evaluation of the clinical efficacy of a TW3-based fully automated bone age assessment system using deep neural networks"이 Imaging Science in Dentistry에 계재되었습니다.

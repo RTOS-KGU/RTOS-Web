@@ -2,6 +2,18 @@
 weight: 4
 title: "Photos"
 images:
+  - src: '/img/portfolio/74.jpg'
+    alt: '2024.08.30 연구실 연합 MT'
+    caption: '2024.08.30 연구실 연합 MT'
+
+  - src: '/img/portfolio/73.jpg'
+    alt: '2024.08.30 연구실 연합 MT'
+    caption: '2024.08.30 연구실 연합 MT'
+
+  - src: '/img/portfolio/72.jpg'
+    alt: '2024.08.22 회식'
+    caption: '2024.08.22 회식'
+
   - src: '/img/portfolio/71.jpg'
     alt: '스마일게이트 퓨처랩 AI 서비스 위클리톤'
     caption: '스마일게이트 퓨처랩 AI 서비스 위클리톤'
