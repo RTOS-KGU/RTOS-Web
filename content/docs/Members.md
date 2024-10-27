@@ -59,12 +59,6 @@ title: "Members"
 **Email:** sdj1145 AT naver.com  
 [**Github**](https://github.com/appsam)
 <--->   
-> ## Yong-Jin Choi
-> **Office:** RM #8514  
-**Email:** dydwls5935 AT kyonggi.ac.kr  
-[**Github**](https://github.com/YJYJ1)
-{{< /columns >}}
-{{< columns >}}
 > ## Ji-Yoon Kweon
 > **Office:** RM #8514  
 **Email:** jiyoon@kyonggi.ac.kr  

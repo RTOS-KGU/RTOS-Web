@@ -8,6 +8,9 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2024.10.15. 국내학술발표대회 논문게재" id="61">}}
+박명수(학부연구생), "영상의학 판독소견서 해석을 위한 합성 데이터 기반 초거대 언어 모델의 개발 및 평가," 2024 한국인터넷정보학회 추계학술대회<br><br>
+{{</modal-text>}}
 - {{<modal-text text="2024.08.30. 연구실 연합 MT" id="60">}}
 "우리 연구실과 정보보호연구실, 비전 인공지능 연구실이 참여한 연합 MT를 제부도에서 1박 2일로 진행하였습니다. 교수님과 학/석/박사 연구생들 21명이 참여한 이번 MT에서는 각 연구실의 최근 연구 성과를 공유하고, 협업 가능성을 논의하는 뜻깊은 시간을 가졌습니다. 또한, 친목을 도모하는 다양한 팀 빌딩 활동과 자연 속에서의 리프레시 시간을 통해 연구에 대한 동기 부여와 공동체 의식을 강화할 수 있었습니다."
 {{</modal-text>}}

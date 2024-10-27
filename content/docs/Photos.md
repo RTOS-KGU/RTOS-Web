@@ -2,6 +2,26 @@
 weight: 4
 title: "Photos"
 images:
+  - src: '/img/portfolio/79.jpg'
+    alt: '2024.10.24 회식 (제주도)'
+    caption: '2024.10.24 회식 (제주도)'
+
+  - src: '/img/portfolio/78.jpg'
+    alt: '2024 추계학술 발표대회 (제주도)'
+    caption: '2024 추계학술 발표대회 (제주도)'
+
+  - src: '/img/portfolio/77.jpg'
+    alt: '2024 추계학술 발표대회 (제주도)'
+    caption: '2024 추계학술 발표대회 (제주도)'
+
+  - src: '/img/portfolio/76.jpg'
+    alt: '2024.10.02 KCR 2024'
+    caption: '2024.10.02 KCR 2024'
+
+  - src: '/img/portfolio/75.jpg'
+    alt: '2024.10.02 KCR 2024'
+    caption: '2024.10.02 KCR 2024'
+
   - src: '/img/portfolio/74.jpg'
     alt: '2024.08.30 연구실 연합 MT'
     caption: '2024.08.30 연구실 연합 MT'
@@ -44,15 +64,15 @@ images:
 
   - src: '/img/portfolio/64.jpg'
     alt: '2024.05.17 제안 발표(노원준)'
-    caption: '2024.05.017 제안 발표(노원준)'
+    caption: '2024.05.17 제안 발표(노원준)'
 
   - src: '/img/portfolio/63.jpg'
     alt: '2024.05.17 제안 발표(한동현)'
-    caption: '2024.05.017 제안 발표(한동현)'
+    caption: '2024.05.17 제안 발표(한동현)'
 
   - src: '/img/portfolio/62.jpg'
     alt: '2024.05.17 제안 발표(문기렴)'
-    caption: '2024.05.017 제안 발표(문기렴)'
+    caption: '2024.05.17 제안 발표(문기렴)'
 
   - src: '/img/portfolio/61.jpg'
     alt: '2024.05.03 회식'
