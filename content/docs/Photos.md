@@ -2,6 +2,22 @@
 weight: 4
 title: "Photos"
 images:
+  - src: '/img/portfolio/83.jpg'
+    alt: '2024.12.27 ACS in Tokyo'
+    caption: '2024.12.27 ACS in Tokyo'
+
+  - src: '/img/portfolio/82.jpg'
+    alt: '2024.11.20 회식'
+    caption: '2024.11.20 회식'
+    
+  - src: '/img/portfolio/81.jpg'
+    alt: '2024.11.20 회식'
+    caption: '2024.11.20 회식'
+
+  - src: '/img/portfolio/80.jpg'
+    alt: 'AI 전문가 초빙 강의 (ETRI 배유석 박사님)'
+    caption: 'AI 전문가 초빙 강의 (ETRI 배유석 박사님)'
+
   - src: '/img/portfolio/79.jpg'
     alt: '2024.10.24 회식 (제주도)'
     caption: '2024.10.24 회식 (제주도)'

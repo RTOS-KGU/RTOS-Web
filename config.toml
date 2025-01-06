@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'ko'
-title = 'RTOS Lab'
+title = 'ACS Lab'
 theme = 'hugo-book'
 
 staticDir = 'static'

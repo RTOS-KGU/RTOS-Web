@@ -48,6 +48,11 @@ title: "Members"
 > **Office:** RM #8514  
 **Email:** noseungha164 AT gmail.com  
 [**Github**](https://github.com/seungha164)
+<--->
+> ## Jun-Hyeon Sim
+> **Office:** RM #8514  
+**Email:** junhyun919 AT gmail.com  
+[**Github**](https://github.com/PacaSim)
 {{< /columns >}}
 
 ### <span style="color:#197ed6">Undergraduate Students</span>
@@ -61,7 +66,7 @@ title: "Members"
 <--->   
 > ## Ji-Yoon Kweon
 > **Office:** RM #8514  
-**Email:** jiyoon@kyonggi.ac.kr  
+**Email:** jiyoon AT kyonggi.ac.kr  
 [**Github**](https://github.com/jiyoxn)
 {{< /columns >}}
 
