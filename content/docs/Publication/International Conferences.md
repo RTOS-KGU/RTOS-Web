@@ -6,8 +6,9 @@ title: "International Conferences"
 # International Conferences
 ---
 <br><br>
-- Byoung-Dai Lee, Ki-Ryum Moon, and Mu Sook Lee, "Radiologic growth chart of femoral head ossification center and acetabular index in normal Korean children using deep learning-based automatic measurement," to appear in <i>2024 RSNA</i>, 2024. <img src="../new.png" width="40" height="10">
-- Seungha Noh, Kangmin Bae, Byoung-Dai Lee, and Yuseok Bae, "\\(H^3\\)Net: Irregular Posture Detection by Understanding Human Character and Core Structures," <i>Proceedings of The 6th IEEE/CVF CVPR Precognition Workshop</i>, 2024. 
+- Sun-Woo Pi, Myeong-Soo Park, and Byoung-Dai Lee, "Enhancing Radiology Report Interpretation with Large-Scale Language Models: A Two-Stage Fine-Tuning Approach," to appear in <i>Proceedings of the 27th International Conference on Advanced Communications Technology(ICACT 2025)</i>, 2025. <img src="../new.png" width="40" height="10">
+- Byoung-Dai Lee, Ki-Ryum Moon, and Mu Sook Lee, "Radiologic growth chart of femoral head ossification center and acetabular index in normal Korean children using deep learning-based automatic measurement," <i>2024 RSNA</i>, 2024. 
+- Seungha Noh, Kangmin Bae, Byoung-Dai Lee, and Yuseok Bae, "\\(H^3\\)Net: Irregular Posture Detection by Understanding Human Character and Core Structures," <i>Proceedings of the 6th IEEE/CVF CVPR Precognition Workshop</i>, 2024. 
 - Sunwon Kang and Byoung-Dai Lee, "An evaluation of a deep learning-based - vehicle tracking method using live traffic CCTV data," <i>Proceedings of the 12th International Conference on Internet(ICONI 2020)</i>, 2020.
 - Chansu Lee and Byoung-Dai Lee, "Enhancement for Automatic Extraction of - RoIs for Bone Age Assessment Based on Deep Neural Networks," <i>Proceedings of the 14th International Conference on Innovative Computing, Information and Control (ICICIC 2019)</i>, 2019.
 - Sunwon Kang, Namgi Kim, and Byoung-Dai Lee, "Fine Dust Forecast based on - Recurrent Neural Networks," <i>Proceedings of the 21st International Conference on Advanced Communications Technology(ICACT 2019)</i>, 2019. (<font color=red>Outstanding Paper Award</font>)

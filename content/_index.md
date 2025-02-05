@@ -8,6 +8,12 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2025.01.23. 2025학년 학부연구생 연구실 참여" id="65">}}
+류지호(AI 컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
+{{</modal-text>}}
+- {{<modal-text text="2025.01.07. 2025학년 석사연구생 연구실 참여" id="64">}}
+심준현 학생이 우리 연구실의 석사연구생으로 참여하게 되었습니다.
+{{</modal-text>}}
 - {{<modal-text text="2024.11.25. 연구실명 변경" id="63">}}
 14년만에 우리 연구실 이름을 RTOS 연구실에서 ACS(Applied Computing Systems) 연구실로 이름을 변경하였습니다.<br><br>
 <a href="http://acs.kyonggi.ac.kr/">ACS Lab</a>

@@ -2,6 +2,10 @@
 weight: 4
 title: "Photos"
 images:
+  - src: '/img/portfolio/84.jpg'
+    alt: '2025.01.09 회식'
+    caption: '2025.01.09 회식'
+    
   - src: '/img/portfolio/83.jpg'
     alt: '2024.12.27 ACS in Tokyo'
     caption: '2024.12.27 ACS in Tokyo'
