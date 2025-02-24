@@ -2,6 +2,18 @@
 weight: 4
 title: "Photos"
 images:
+  - src: '/img/portfolio/87.jpg'
+    alt: '🎉문기렴, 한동현, 노원준 석사 졸업🎉'
+    caption: '🎉문기렴, 한동현, 노원준 석사 졸업🎉'
+
+  - src: '/img/portfolio/86.jpg'
+    alt: '🎉문기렴, 한동현, 노원준 석사 졸업🎉'
+    caption: '🎉문기렴, 한동현, 노원준 석사 졸업🎉'
+
+  - src: '/img/portfolio/85.jpg'
+    alt: 'ICACT, 2025 (평창)'
+    caption: 'ICACT, 2025 (평창)'
+
   - src: '/img/portfolio/84.jpg'
     alt: '2025.01.09 회식'
     caption: '2025.01.09 회식'
