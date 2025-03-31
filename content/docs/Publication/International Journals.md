@@ -10,13 +10,14 @@ title: "International Journals"
 - "Automated Radiography Assessment of Ankle Joint Instability Using Deep Learning," under review.
 - "Data-Driven AI for Chest X-ray Analysis: Leveraging Extensive Public Data for Enhanced Diagnostic Accuracy," under review.
 - "Multimodal Deep Learning and Engineered Prompting for Assistive Breast Ultrasound Report Generation: Leveraging GPT-4 for Enhanced Image Analysis and Clinical Workflow," under review.
-- "Shadow Feature Refinement Network (SFR-Net): Progressive Feature Refinement based on Knowledge Distillation for Effective Shadow Removal," under review.
+- "Shadow Feature Refinement Network (SFR-Net): Progressive Feature Refinement based on Knowledge Distillation for Effective Shadow Removal," under revision.
 - "Accessing deep learning accuracy in the measurement of radiographic parameters in pediatric hip X-rays," under revision.
 - "TransSkip: Leveraging Transformer-based Attention Mechanisms for Multi-Scale Feature Fusion," under revision.
 ---
-- Won-Jun Noh, Ki-Ryum Moon, and Byoung-Dai Lee "SMS-Net: Bridging the gap between high accuracy and low computational cost in pose estimation," <i>Applied Sciences</i>, 14(22), 2024.<img src="../new.png" width="40" height="10">
+- Seungha Noh and Byoung-Dai Lee "A Narrative Review of Foundation Models for Medical Image Segmentation: Zero-Shot Performance Evaluation on Diverse Modalities," to appear in <i>Quantitative Imaging in Medicine and Surgery</i>, 2025.<img src="../new.png" width="40" height="10">
+- Won-Jun Noh, Ki-Ryum Moon, and Byoung-Dai Lee "SMS-Net: Bridging the gap between high accuracy and low computational cost in pose estimation," <i>Applied Sciences</i>, 14(22), 2024.
 - Khadija Azhar, Byoung-Dai Lee, Shi Sub Byon, Kyu Ran Cho, and Sung Eun Song, "AI-Powered Synthesis of Structured Multimodal Breast Ultra-sound
-Reports Integrating Radiologist Annotations and Deep Learning Analysis," <i>Bioengineering</i>, 11(9), 2024.<img src="../new.png" width="40" height="10">
+Reports Integrating Radiologist Annotations and Deep Learning Analysis," <i>Bioengineering</i>, 11(9), 2024.
 - Won-Jun Noh, Mu Sook Lee, and Byoung-Dai Lee, "Deep learning-based automated angle measurement for flatfoot diagnosis in weight-bearing lateral radiographs," <i>Scientific Reports</i>, 14(18411), 2024.  
 - Ki-Ryum Moon, Shi Sub Byon, Sung Hyun Kim, and Byoung-Dai Lee, "Automated Assessment of Pelvic Radiographs Using Deep Learning: A Reliable Diagnostic Tool for Pelvic Malalignment," <i>Heliyon</i>, 10(8), 2024. 
 - Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee, and Hae Jeong Lee, "Ensemble Deep Learning Networks for Automatic Grading of Osteoarthritis in X-Ray Images of Knees," <i>Scientific Reports</i>, 13(22887), 2023. 

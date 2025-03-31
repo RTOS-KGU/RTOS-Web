@@ -31,9 +31,6 @@ title: "Members"
 [**Github**](https://github.com/seungha164)
 {{</ columns >}}
 
-
-
-
 {{< columns >}}
 > ## Jun-Hyeon Sim
 > **Office:** RM #8514  
@@ -55,6 +52,13 @@ title: "Members"
 > **Office:** RM #8514  
 **Email:** ryujihos0105 AT gmail.com  
 [**Github**](https://github.com/ryujihos0105)
+{{< /columns >}}
+
+{{< columns >}}
+> ## Jae-Won Lee
+> **Office:** RM #8514  
+**Email:** woqmffl2000 AT naver.com  
+[**Github**](https://github.com/programmer-Lee)
 {{< /columns >}}
 
 ## Alumni  

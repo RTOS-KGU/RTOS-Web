@@ -8,6 +8,15 @@ type: docs
 We are looking for talented and motivated students to join our lab, on the undergraduate, graduate, and post-doctoral level. Those who are interested in pursuing research in our lab should contact us by email blee AT kyonggi.ac.kr
 
 ## News
+- {{<modal-text text="2025.03.27. Quantitative Imaging in Medicine and Surgery 논문 게재" id="68">}}
+연구실 석사 연구생인  노승하 학생의 "A Narrative Review of Foundation Models for Medical Image Segmentation: Zero-Shot Performance Evaluation on Diverse Modalities" 논문이 Quantitative Imaging in Medicine and Surgery (Impact Factor: 2.9)에 최종 게재 확정되었습니다.
+{{</modal-text>}}
+- {{<modal-text text="2025.03.25. 국내학술발표대회 논문게재" id="67">}}
+권지윤(학부연구생), "프롬프트 기반 딥러닝 모델을 활용한 흉부 방사선 영상 카테터 세그멘테이션 모델," 2025 한국인터넷정보학회 춘계학술대회<br><br>
+{{</modal-text>}}
+- {{<modal-text text="2025.03.10. 2025학년 학부연구생 연구실 참여" id="66">}}
+이재원(AI 컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
+{{</modal-text>}}
 - {{<modal-text text="2025.01.23. 2025학년 학부연구생 연구실 참여" id="65">}}
 류지호(AI 컴퓨터공학부3년) 학생이 우리 연구실의 학부연구생으로 참여하게 되었습니다.
 {{</modal-text>}}
